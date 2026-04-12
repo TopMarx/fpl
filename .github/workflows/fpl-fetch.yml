@@ -2,9 +2,9 @@ name: FPL Fetch
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # Primary fetch at 1am UTC
-    - cron: '0 2 * * *'   # Retry if 1am blocked by live/unprocessed data
-    - cron: '0 3 * * *'   # Final retry if 2am still blocked
+    - cron: '7 1 * * *'   # Primary fetch at 1am UTC
+    - cron: '7 2 * * *'   # Retry if 1am blocked by live/unprocessed data
+    - cron: '7 3 * * *'   # Final retry if 2am still blocked
   workflow_dispatch:
     inputs:
       dry_run:

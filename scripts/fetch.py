@@ -550,22 +550,22 @@ def run(args):
     fetch_type = "none"
     team_fpl_ids: set[int] | None = None  # None = fetch all players
 
-  if args.force_gw:
-    print(f"  --force-gw {args.force_gw}: forcing full player fetch")
-    fetch_type = "forced"
+    if args.force_gw:
+        print(f"  --force-gw {args.force_gw}: forcing full player fetch")
+        fetch_type = "forced"
 
-  elif not gw_finished:
-      fixtures_yesterday = get_fixtures_on_date(fixtures, target_date)
-      if not fixtures_yesterday:
-          print(f"  No matches on {target_date} — nothing to fetch")
-          fetch_type = "none"
-      else:
-          team_fpl_ids = get_teams_played_in_gw(fixtures, gw_number)
-          print(f"  {len(fixtures_yesterday)} match(es) on {target_date}:")
-          for fix in fixtures_yesterday:
-                h = team_lookup.get(fix["team_h"], {}).get("short_name", "?")
-                a = team_lookup.get(fix["team_a"], {}).get("short_name", "?")
-                print(f"    {h} {fix['team_h_score']}-{fix['team_a_score']} {a}")
+    elif not gw_finished:
+        fixtures_yesterday = get_fixtures_on_date(fixtures, target_date)
+        if not fixtures_yesterday:
+            print(f"  No matches on {target_date} — nothing to fetch")
+            fetch_type = "none"
+        else:
+            team_fpl_ids = get_teams_played_in_gw(fixtures, gw_number)
+            print(f"  {len(fixtures_yesterday)} match(es) on {target_date}:")
+            for fix in fixtures_yesterday:
+                    h = team_lookup.get(fix["team_h"], {}).get("short_name", "?")
+                    a = team_lookup.get(fix["team_a"], {}).get("short_name", "?")
+                    print(f"    {h} {fix['team_h_score']}-{fix['team_a_score']} {a}")
             print(f"  Fetching all teams that have played in GW{gw_number} so far ({len(team_fpl_ids)} teams)")
             fetch_type = "active_gw"
 

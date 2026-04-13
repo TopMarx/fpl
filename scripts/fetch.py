@@ -647,6 +647,9 @@ def run(args):
 
     # ── Completion & manifest ─────────────────────────────────
     completed = len(failed_ids) == 0
+
+    if fetch_type == "gw_closure" and completed:
+        manifest["last_closed_gw"] = gw_number
       
     elif fetch_type == "forced" and completed:
         manifest["last_closed_gw"] = gw_number if gw_finished else gw_number - 1

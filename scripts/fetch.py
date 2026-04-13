@@ -538,7 +538,7 @@ def run(args):
     gw_number = current_gw["id"]
     gw_finished = current_gw.get("finished", False)
     gw_data_checked = current_gw.get("data_checked", False)
-    last_closed_gw = manifest.get("last_closed_gw", 0)
+    last_closed_gw = manifest.get("last_closed_gw") or 0
 
     print(f"  Current GW: {gw_number}")
     print(f"  finished: {gw_finished}, data_checked: {gw_data_checked}")
@@ -649,7 +649,7 @@ def run(args):
     completed = len(failed_ids) == 0
       
     elif fetch_type == "forced" and completed:
-    manifest["last_closed_gw"] = gw_number if gw_finished else gw_number - 1
+        manifest["last_closed_gw"] = gw_number if gw_finished else gw_number - 1
 
     manifest.update({
         "season": args.season,

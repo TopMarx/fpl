@@ -564,19 +564,38 @@ def run(args):
         fetch_type = "forced"
 
     elif not gw_finished:
-        fixtures_yesterday = get_fixtures_on_date(fixtures, target_date)
-        if not fixtures_yesterday:
-            print(f"  No matches on {target_date} — nothing to fetch")
-            fetch_type = "none"
+        closure_gw = gw_number
+        # ── Check if previous GW was not closed ───────────────
+        if last_closed_gw < gw_number - 1:
+            # Quick turnaround: previous GW finished but not yet recorded in manifest. Example:
+            # | Day (1am CRON) | Matches yesterday      | current_gw | last_closed_gw | finished |
+            # |----------------|------------------------|------------|----------------|----------|
+            # | Thu            | GW10 Wed matches       | GW10       | 9              | false    |
+            # | Fri            | GW10 Thu 8pm match     | GW10       | 9              | false    |
+            # | Sat            | GW11 Fri 8pm match     | GW11       | 9              | false    |
+            # on the Friday CRON the GW is not finished per the bootstrap, so "gw_closure" never triggers
+            # ------------------------------------------------------------------------------------
+            # checking if last_closed_gw is less than gw -1 triggers the "gw_closure"
+            # fetch_type is set to "gw_closure" even though the current GW is also active —
+            # this is intentional and has no downstream impact as gw_closure is informational.
+            print(f"  GW{gw_number - 1} closed but not yet recorded — prioritising backfill closure fetch")
+            fetch_type = "gw_closure"
+            closure_gw = gw_number - 1
         else:
-            team_fpl_ids = get_teams_played_in_gw(fixtures, gw_number)
-            print(f"  {len(fixtures_yesterday)} match(es) on {target_date}:")
-            for fix in fixtures_yesterday:
-                    h = team_lookup.get(fix["team_h"], {}).get("short_name", "?")
-                    a = team_lookup.get(fix["team_a"], {}).get("short_name", "?")
-                    print(f"    {h} {fix['team_h_score']}-{fix['team_a_score']} {a}")
-            print(f"  Fetching all teams that have played in GW{gw_number} so far ({len(team_fpl_ids)} teams)")
-            fetch_type = "active_gw"
+            fixtures_yesterday = get_fixtures_on_date(fixtures, target_date)
+            if not fixtures_yesterday:
+                print(f"  No matches on {target_date} — nothing to fetch")
+                fetch_type = "none"
+            else:
+                team_fpl_ids = get_teams_played_in_gw(fixtures, gw_number)
+                print(f"  {len(fixtures_yesterday)} match(es) on {target_date}:")
+                for fix in fixtures_yesterday:
+                        h = team_lookup.get(fix["team_h"], {}).get("short_name", "?")
+                        a = team_lookup.get(fix["team_a"], {}).get("short_name", "?")
+                        print(f"    {h} {fix['team_h_score']}-{fix['team_a_score']} {a}")
+                print(f"  Fetching all teams that have played in GW{gw_number} so far ({len(team_fpl_ids)} teams)")
+                fetch_type = "active_gw"
+
 
     elif not gw_data_checked:
         print(f"  GW{gw_number} finished but data_checked is False — waiting")
@@ -585,6 +604,7 @@ def run(args):
     elif last_closed_gw < gw_number:
         print(f"  GW{gw_number} closed (finished + data_checked) — running full closure fetch")
         fetch_type = "gw_closure"
+        closure_gw = gw_number
     
     else:
         print(f"  GW{gw_number} closure already recorded in manifest — nothing to fetch")
@@ -646,9 +666,10 @@ def run(args):
         else:
             print("\n  No completed GW to fetch extras for — skipping")
 
+
     elif fetch_type == "gw_closure":
-        print(f"\n  Fetching GW extras for GW{gw_number}...")
-        fetch_gw_extras(gw_number, gameweeks_dir, session, args.dry_run)
+        print(f"\n  Fetching GW extras for GW{closure_gw}...")
+        fetch_gw_extras(closure_gw, gameweeks_dir, session, args.dry_run)
 
     if fetch_type in ("gw_closure", "forced"):
         print(f"\n  Fetching season extras...")
@@ -662,7 +683,7 @@ def run(args):
     completed = len(failed_ids) == 0
 
     if fetch_type == "gw_closure" and completed:
-        manifest["last_closed_gw"] = gw_number
+        manifest["last_closed_gw"] = closure_gw
       
     elif fetch_type == "forced" and completed:
         manifest["last_closed_gw"] = gw_number if gw_finished else gw_number - 1

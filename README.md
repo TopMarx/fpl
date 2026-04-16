@@ -29,6 +29,8 @@ processed CSVs for easy use in spreadsheets, notebooks, and analysis tools.
 | `data/{season}/csv/players.csv` | All players with season stats and metadata |
 | `data/{season}/csv/teams.csv` | All 20 Premier League teams |
 | `data/{season}/csv/fixtures.csv` | All fixtures with scores and difficulty ratings |
+  `data/{season}/csv/players/history/{fpl_id}_{first}_{second}_{opta_id}.json` | Per-player match history |
+  `data/{season}/csv/players/history_past/{fpl_id}_{first}_{second}_{opta_id}.json` | Player season histories |
 | `data/{season}/csv/gameweeks.csv` | Gameweek summary data |
 | `data/{season}/csv/live.csv` | Per-player points and stats for each GW |
 | `data/{season}/csv/dream-teams.csv` | GW and season dream teams |
@@ -216,7 +218,12 @@ git clone --depth 1 https://github.com/TopMarx/fpl.git
 │           ├── live.csv
 │           ├── dream-teams.csv
 │           ├── set-piece-notes.csv
-│           └── regions.csv
+│           ├── regions.csv
+            └── players/
+                └── history/
+                │   └── {fpl_id}_{first}_{second}_{opta_id}.json
+                └── history_past/
+                    └── {fpl_id}_{first}_{second}_{opta_id}.json
 │
 ├── latest/
 │   ├── fpl-bootstrap.json

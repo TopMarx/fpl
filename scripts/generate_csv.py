@@ -21,6 +21,8 @@ Writes to:
   data/{season}/csv/dream-teams.csv
   data/{season}/csv/set-piece-notes.csv
   data/{season}/csv/regions.csv
+  data/{season}/csv/players/history/{fpl_id}_{first}_{second}_{opta_id}.csv
+  data/{season}/csv/players/history_past/{fpl_id}_{first}_{second}_{opta_id}.csv
 
 Usage:
   python3 scripts/generate_csv.py --season 2025
@@ -375,6 +377,164 @@ def generate_set_piece_notes(set_piece_data: dict, team_lookup: dict, csv_dir: P
     print(f"  → set-piece-notes.csv ({count} rows)")
 
 
+def generate_player_csvs(players_dir: Path, team_lookup: dict, csv_dir: Path) -> None:
+    """Generate per-player history and history_past CSVs from player JSON files.
+
+    Output:
+      csv/players/history/{fpl_id}_{first}_{second}_{opta_id}.csv
+      csv/players/history_past/{fpl_id}_{first}_{second}_{opta_id}.csv
+
+    Filename is taken directly from the JSON stem so it always reflects the
+    player's current name (fetch.py guarantees this). Before writing, stale
+    CSVs are removed via {fpl_id}_*.csv glob — the same approach fetch.py
+    uses for JSON files, ensuring renames and known_name changes stay in sync.
+
+    history_past is skipped if the array is empty (new players with no prior
+    FPL seasons).
+    """
+    player_files = sorted(players_dir.glob("*.json"))
+    if not player_files:
+        print("  SKIP: player CSVs (no player JSON files found)")
+        return
+
+    history_dir = csv_dir / "players" / "history"
+    history_past_dir = csv_dir / "players" / "history_past"
+    history_dir.mkdir(parents=True, exist_ok=True)
+    history_past_dir.mkdir(parents=True, exist_ok=True)
+
+    history_fieldnames = [
+        "fpl_id", "fixture_fpl_id", "gameweek", "kickoff_time", "was_home",
+        "opponent_team_fpl_id", "opponent_team_name",
+        "team_h_score", "team_a_score", "modified",
+        "minutes", "starts", "goals_scored", "assists", "clean_sheets",
+        "goals_conceded", "own_goals", "penalties_saved", "penalties_missed",
+        "yellow_cards", "red_cards", "saves", "bonus", "bps",
+        "influence", "creativity", "threat", "ict_index",
+        "clearances_blocks_interceptions", "recoveries", "tackles",
+        "defensive_contribution", "total_points",
+        "value", "selected", "transfers_in", "transfers_out", "transfers_balance",
+    ]
+
+    history_past_fieldnames = [
+        "fpl_id", "opta_id", "season_name",
+        "start_cost", "end_cost", "total_points", "minutes",
+        "goals_scored", "assists", "clean_sheets", "goals_conceded",
+        "own_goals", "penalties_saved", "penalties_missed",
+        "yellow_cards", "red_cards", "saves", "bonus", "bps",
+        "influence", "creativity", "threat", "ict_index",
+        "clearances_blocks_interceptions", "recoveries", "tackles",
+        "defensive_contribution","starts",
+    ]
+
+    history_count = 0
+    history_past_count = 0
+
+    for json_path in player_files:
+        stem = json_path.stem  # e.g. "442_Mohamed_Salah_56322"
+        fpl_id = int(stem.split("_")[0])
+        csv_name = stem + ".csv"
+
+        data = load_json(json_path)
+        if not isinstance(data, dict):
+            continue
+
+        # Remove stale CSVs for this player before writing — mirrors the
+        # glob-and-unlink pattern in fetch.py's fetch_player(), ensuring that
+        # name changes (including known_name updates) don't leave orphaned files.
+        for old_file in history_dir.glob(f"{fpl_id}_*.csv"):
+            old_file.unlink()
+        for old_file in history_past_dir.glob(f"{fpl_id}_*.csv"):
+            old_file.unlink()
+
+        # ── history (current season, one row per match) ───────
+        history_rows = []
+        for match in data.get("history", []):
+            opponent_fpl_id = match.get("opponent_team")
+            history_rows.append({
+                "fpl_id": match.get("element"),
+                "fixture_fpl_id": match.get("fixture"),
+                "gameweek": match.get("round"),
+                "kickoff_time": match.get("kickoff_time"),
+                "was_home": match.get("was_home"),
+                "opponent_team_fpl_id": opponent_fpl_id,
+                "opponent_team_name": team_lookup.get(opponent_fpl_id, {}).get("name"),
+                "team_h_score": match.get("team_h_score"),
+                "team_a_score": match.get("team_a_score"),
+                "modified": match.get("modified"),
+                "minutes": match.get("minutes", 0),
+                "starts": match.get("starts", 0),
+                "goals_scored": match.get("goals_scored", 0),
+                "assists": match.get("assists", 0),
+                "clean_sheets": match.get("clean_sheets", 0),
+                "goals_conceded": match.get("goals_conceded", 0),
+                "own_goals": match.get("own_goals", 0),
+                "penalties_saved": match.get("penalties_saved", 0),
+                "penalties_missed": match.get("penalties_missed", 0),
+                "yellow_cards": match.get("yellow_cards", 0),
+                "red_cards": match.get("red_cards", 0),
+                "saves": match.get("saves", 0),
+                "bonus": match.get("bonus", 0),
+                "bps": match.get("bps", 0),
+                "influence": match.get("influence", "0.0"),
+                "creativity": match.get("creativity", "0.0"),
+                "threat": match.get("threat", "0.0"),
+                "ict_index": match.get("ict_index", "0.0"),
+                "clearances_blocks_interceptions": match.get("clearances_blocks_interceptions", 0),
+                "recoveries": match.get("recoveries", 0),
+                "tackles": match.get("tackles", 0),
+                "defensive_contribution": match.get("defensive_contribution", 0),
+                "total_points": match.get("total_points", 0),
+                "value": match.get("value"),
+                "selected": match.get("selected"),
+                "transfers_in": match.get("transfers_in", 0),
+                "transfers_out": match.get("transfers_out", 0),
+                "transfers_balance": match.get("transfers_balance", 0),
+            })
+        write_csv(history_dir / csv_name, history_rows, history_fieldnames)
+        history_count += 1
+
+        # ── history_past (one row per past season) ────────────
+        history_past = data.get("history_past", [])
+        if history_past:
+            past_rows = []
+            for season in history_past:
+                past_rows.append({
+                    "fpl_id": fpl_id,
+                    "opta_id": season.get("element_code"),
+                    "season_name": season.get("season_name"),
+                    "start_cost": season.get("start_cost"),
+                    "end_cost": season.get("end_cost"),
+                    "total_points": season.get("total_points", 0),
+                    "minutes": season.get("minutes", 0),
+                    "goals_scored": season.get("goals_scored", 0),
+                    "assists": season.get("assists", 0),
+                    "clean_sheets": season.get("clean_sheets", 0),
+                    "goals_conceded": season.get("goals_conceded", 0),
+                    "own_goals": season.get("own_goals", 0),
+                    "penalties_saved": season.get("penalties_saved", 0),
+                    "penalties_missed": season.get("penalties_missed", 0),
+                    "yellow_cards": season.get("yellow_cards", 0),
+                    "red_cards": season.get("red_cards", 0),
+                    "saves": season.get("saves", 0),
+                    "bonus": season.get("bonus", 0),
+                    "bps": season.get("bps", 0),
+                    "influence": season.get("influence", "0.0"),
+                    "creativity": season.get("creativity", "0.0"),
+                    "threat": season.get("threat", "0.0"),
+                    "ict_index": season.get("ict_index", "0.0"),
+                    "clearances_blocks_interceptions": season.get("clearances_blocks_interceptions", 0),
+                    "recoveries": season.get("recoveries", 0),
+                    "tackles": season.get("tackles", 0),
+                    "defensive_contribution": season.get("defensive_contribution", 0),
+                    "starts": season.get("starts", 0),
+                })
+            write_csv(history_past_dir / csv_name, past_rows, history_past_fieldnames)
+            history_past_count += 1
+
+    print(f"  → players/history/ ({history_count} files)")
+    print(f"  → players/history_past/ ({history_past_count} files)")
+
+
 # ─── Main ─────────────────────────────────────────────────────
 
 def run(args):
@@ -419,6 +579,12 @@ def run(args):
         generate_dream_teams(gameweeks_dir, season_dream_team, element_lookup, csv_dir)
     else:
         print("  SKIP: live.csv and dream-teams.csv (no gameweeks directory)")
+
+    players_dir = output / "players"
+    if players_dir.exists():
+        generate_player_csvs(players_dir, team_lookup, csv_dir)
+    else:
+        print("  SKIP: player CSVs (no players directory)")
 
     set_piece_path = output / f"fpl-set-piece-notes_{args.season}.json"
     set_piece_data = load_json(set_piece_path)

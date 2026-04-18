@@ -1,0 +1,10 @@
+fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+809,240,24,2026-01-31T15:00:00Z,True,4,Bournemouth,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,0,0,0,0
+809,250,25,2026-02-07T15:00:00Z,True,7,Chelsea,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,200,143,14,129
+809,257,26,2026-02-11T19:30:00Z,False,16,Nott'm Forest,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,596,285,45,240
+809,310,26,2026-02-18T20:00:00Z,True,1,Arsenal,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,596,285,45,240
+809,264,27,2026-02-22T14:00:00Z,False,8,Crystal Palace,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,688,220,77,143
+809,280,28,2026-02-27T20:00:00Z,True,2,Aston Villa,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,808,148,66,82
+809,290,29,2026-03-03T20:15:00Z,True,12,Liverpool,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,974,215,77,138
+809,292,30,2026-03-16T20:00:00Z,False,5,Brentford,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1045,184,159,25
+809,320,32,2026-04-10T19:00:00Z,False,19,West Ham,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1185,151,72,79

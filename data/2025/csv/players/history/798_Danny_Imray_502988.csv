@@ -1,0 +1,11 @@
+fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+798,218,22,2026-01-17T15:00:00Z,False,17,Sunderland,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,0,0,0,0
+798,225,23,2026-01-25T14:00:00Z,True,7,Chelsea,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,158,51,4,47
+798,237,24,2026-02-01T14:00:00Z,False,16,Nott'm Forest,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,310,53,15,38
+798,243,25,2026-02-08T14:00:00Z,False,6,Brighton,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,452,35,27,8
+798,254,26,2026-02-11T19:40:00Z,True,3,Burnley,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,386,3,61,-58
+798,264,27,2026-02-22T14:00:00Z,True,20,Wolves,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,356,0,37,-37
+798,278,28,2026-03-01T14:00:00Z,False,14,Man Utd,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,344,0,12,-12
+798,289,29,2026-03-05T20:00:00Z,False,18,Spurs,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,329,0,14,-14
+798,295,30,2026-03-15T14:00:00Z,True,11,Leeds,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,321,0,9,-9
+798,315,32,2026-04-12T13:00:00Z,True,15,Newcastle,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,313,0,6,-6

@@ -1,0 +1,12 @@
+fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+799,212,22,2026-01-19T20:00:00Z,False,6,Brighton,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,0,0,0,0
+799,222,23,2026-01-24T17:30:00Z,True,12,Liverpool,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,65,56,4,52
+799,240,24,2026-01-31T15:00:00Z,False,20,Wolves,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,148,76,21,55
+799,242,25,2026-02-07T15:00:00Z,True,2,Aston Villa,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,237,82,24,58
+799,255,26,2026-02-10T19:30:00Z,False,9,Everton,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,393,147,32,115
+799,270,27,2026-02-21T17:30:00Z,False,19,West Ham,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,468,105,54,51
+799,272,28,2026-02-28T12:30:00Z,True,17,Sunderland,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,520,57,35,22
+799,282,29,2026-03-03T19:30:00Z,True,5,Brentford,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,558,62,36,26
+799,293,30,2026-03-14T15:00:00Z,False,3,Burnley,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,629,74,47,27
+799,302,31,2026-03-20T20:00:00Z,True,14,Man Utd,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,641,24,29,-5
+799,311,32,2026-04-11T11:30:00Z,False,1,Arsenal,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,686,50,38,12

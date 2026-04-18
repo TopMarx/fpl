@@ -1,0 +1,10 @@
+fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+804,239,24,2026-02-01T16:30:00Z,True,13,Man City,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,383,282,39,243
+804,248,25,2026-02-07T12:30:00Z,False,14,Man Utd,2,0,False,35,0,0,0,0,1,0,0,0,0,0,0,0,1,6.0,10.3,0.0,1.6,2,2,0,2,1,40,841,331,77,254
+804,259,26,2026-02-10T19:30:00Z,True,15,Newcastle,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,1660,744,128,616
+804,269,27,2026-02-22T16:30:00Z,True,1,Arsenal,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,1785,264,202,62
+804,275,28,2026-03-01T14:00:00Z,False,10,Fulham,2,1,False,10,0,0,0,0,0,0,0,0,0,0,0,0,4,2.2,10.5,4.0,1.7,0,0,0,0,1,40,1936,142,125,17
+804,289,29,2026-03-05T20:00:00Z,True,8,Crystal Palace,1,3,False,42,1,0,0,0,1,0,0,0,1,0,0,0,-6,0.4,10.8,4.0,1.5,1,0,0,1,0,40,2102,156,119,37
+804,296,30,2026-03-15T16:30:00Z,False,12,Liverpool,1,1,False,55,1,0,0,0,1,0,0,0,0,0,0,0,1,4.2,0.3,9.0,1.4,3,1,0,3,1,40,2279,191,164,27
+804,309,31,2026-03-22T14:15:00Z,True,16,Nott'm Forest,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,2777,237,97,140
+804,319,32,2026-04-12T13:00:00Z,False,17,Sunderland,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,2746,164,131,33

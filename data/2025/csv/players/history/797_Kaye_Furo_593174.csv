@@ -1,0 +1,12 @@
+fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+797,213,22,2026-01-17T15:00:00Z,False,7,Chelsea,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,0,0,0,0
+797,223,23,2026-01-25T14:00:00Z,True,16,Nott'm Forest,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,277,169,20,149
+797,231,24,2026-02-01T14:00:00Z,False,2,Aston Villa,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,589,238,70,168
+797,249,25,2026-02-07T17:30:00Z,False,15,Newcastle,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,859,201,97,104
+797,252,26,2026-02-12T20:00:00Z,True,1,Arsenal,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1378,425,116,309
+797,262,27,2026-02-21T15:00:00Z,True,6,Brighton,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1769,433,157,276
+797,274,28,2026-02-28T15:00:00Z,False,3,Burnley,3,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1870,182,183,-1
+797,282,29,2026-03-03T19:30:00Z,False,4,Bournemouth,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1914,130,181,-51
+797,292,30,2026-03-16T20:00:00Z,True,20,Wolves,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1987,125,219,-94
+797,306,31,2026-03-21T20:00:00Z,False,11,Leeds,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,2100,129,120,9
+797,312,32,2026-04-11T14:00:00Z,True,9,Everton,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,2239,105,129,-24

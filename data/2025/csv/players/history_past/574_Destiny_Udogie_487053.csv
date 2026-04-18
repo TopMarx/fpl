@@ -1,0 +1,3 @@
+fpl_id,opta_id,season_name,start_cost,end_cost,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts
+574,487053,2023/24,45,49,79,2391,2,3,5,43,0,0,0,5,1,0,8,402,534.8,357.9,279.0,117.3,0,0,0,0,28
+574,487053,2024/25,50,48,43,1923,0,1,2,35,1,0,0,2,0,0,0,233,354.8,256.5,132.0,74.5,0,0,0,131,24

@@ -1,0 +1,11 @@
+fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+802,230,23,2026-01-24T12:30:00Z,True,17,Sunderland,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,29,26,4,22
+802,233,24,2026-01-31T17:30:00Z,False,7,Chelsea,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,190,111,20,91
+802,244,25,2026-02-07T15:00:00Z,False,3,Burnley,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,231,55,63,-8
+802,260,26,2026-02-10T20:15:00Z,True,14,Man Utd,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,328,69,36,33
+802,270,27,2026-02-21T17:30:00Z,True,4,Bournemouth,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,384,40,55,-15
+802,277,28,2026-02-28T15:00:00Z,False,12,Liverpool,5,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,460,64,35,29
+802,285,29,2026-03-04T19:30:00Z,False,10,Fulham,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,460,24,68,-44
+802,300,30,2026-03-14T20:00:00Z,True,13,Man City,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,530,44,38,6
+802,301,31,2026-03-22T14:15:00Z,False,2,Aston Villa,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,559,11,34,-23
+802,320,32,2026-04-10T19:00:00Z,True,20,Wolves,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,636,33,21,12

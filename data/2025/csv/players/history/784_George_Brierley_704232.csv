@@ -1,0 +1,14 @@
+fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+784,193,20,2026-01-03T15:00:00Z,False,6,Brighton,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,0,0,0,0
+784,204,21,2026-01-07T20:15:00Z,True,14,Man Utd,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,49,35,7,28
+784,215,22,2026-01-17T15:00:00Z,False,12,Liverpool,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,172,123,27,96
+784,224,23,2026-01-24T15:00:00Z,True,18,Spurs,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,159,22,60,-38
+784,238,24,2026-02-02T20:00:00Z,False,17,Sunderland,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,171,34,43,-9
+784,244,25,2026-02-07T15:00:00Z,True,19,West Ham,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,217,47,33,14
+784,254,26,2026-02-11T19:40:00Z,False,8,Crystal Palace,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,261,51,32,19
+784,263,27,2026-02-21T15:00:00Z,False,7,Chelsea,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,308,47,32,15
+784,274,28,2026-02-28T15:00:00Z,True,5,Brentford,3,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,320,26,26,0
+784,284,29,2026-03-03T19:30:00Z,False,9,Everton,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,343,35,32,3
+784,293,30,2026-03-14T15:00:00Z,True,4,Bournemouth,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,361,33,40,-7
+784,305,31,2026-03-21T15:00:00Z,False,10,Fulham,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,374,15,17,-2
+784,313,32,2026-04-11T14:00:00Z,True,6,Brighton,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,404,28,20,8

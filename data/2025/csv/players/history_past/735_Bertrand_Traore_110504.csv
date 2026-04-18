@@ -1,0 +1,7 @@
+fpl_id,opta_id,season_name,start_cost,end_cost,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts
+735,110504,2015/16,55,54,28,375,2,1,2,2,0,0,0,0,0,0,1,96,0.0,0.0,0.0,0.0,0,0,0,0,0
+735,110504,2016/17,55,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0
+735,110504,2020/21,60,58,135,2315,7,7,11,31,0,0,0,1,0,0,7,407,528.4,530.6,917.0,197.6,0,0,0,0,0
+735,110504,2021/22,60,57,13,212,0,1,0,3,0,0,0,0,0,0,0,41,21.0,10.6,90.0,11.8,0,0,0,0,0
+735,110504,2022/23,50,49,20,226,2,0,1,1,0,0,0,1,0,0,1,57,82.0,30.7,79.0,19.0,0,0,0,0,1
+735,110504,2023/24,50,50,2,10,0,0,0,0,0,0,0,0,0,0,0,6,3.0,0.0,0.0,0.3,0,0,0,0,0

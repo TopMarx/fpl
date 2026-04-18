@@ -124,11 +124,23 @@ def run(args):
         write_json(latest_dir / "fetch-manifest.json", manifest)
         print(f"  → fetch-manifest.json")
 
+    # ── Determine whether to regenerate history_past ──────────
+    # history_past is essentially static within a season, so we only
+    # regenerate it on full player fetches (GW closure / forced) or
+    # when the target file doesn't exist yet.
+    fetch_type = manifest.get("fetch_type") if isinstance(manifest, dict) else None
+    history_past_path = latest_dir / "players-history-past.json"
+    write_history_past = (
+        fetch_type in ("gw_closure", "forced")
+        or not history_past_path.exists()
+    )
+
     # ── Build per-team player files ───────────────────────────
     print(f"\n  Building per-team player files from {players_dir}/...")
 
     # Group player files by team opta_id
     team_players: dict[int, list[dict]] = {}
+    all_history_past: list[dict] = []
 
     player_files = list(players_dir.glob("*.json"))
     print(f"  Found {len(player_files)} player file(s)")
@@ -178,6 +190,19 @@ def run(args):
             "history": player_data.get("history", []),
         }
 
+        # Collect history_past entry if regenerating and player has prior seasons
+        if write_history_past and player_data.get("history_past"):
+            all_history_past.append({
+                "fpl_id": fpl_id,
+                "opta_id": el.get("code"),
+                "first_name": el.get("first_name"),
+                "second_name": el.get("second_name"),
+                "web_name": el.get("web_name"),
+                "known_name": el.get("known_name") or "",
+                "position": POSITION_MAP.get(el.get("element_type", 0), ""),
+                "history_past": player_data["history_past"],
+            })
+
         if team_opta_id not in team_players:
             team_players[team_opta_id] = []
         team_players[team_opta_id].append(player_entry)
@@ -203,6 +228,18 @@ def run(args):
         print(f"  → {filename} ({len(players)} players)")
 
     print(f"\n  {len(team_players)} team file(s) written to {latest_dir}/")
+
+    # ── Write combined history_past file ──────────────────────
+    if write_history_past:
+        write_json(history_past_path, {
+            "season": args.season,
+            "generated_at": generated_at,
+            "players": sorted(all_history_past, key=lambda p: p["second_name"]),
+        })
+        print(f"\n  → players-history-past.json ({len(all_history_past)} players)")
+    else:
+        print(f"\n  → players-history-past.json (skipped — regenerated on GW closure/force only)")
+
     print("\nDone!")
 
 

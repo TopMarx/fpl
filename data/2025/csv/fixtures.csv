@@ -324,10 +324,10 @@ fpl_id,opta_id,gameweek,team_h_fpl_id,team_h_opta_id,team_h_name,team_h_short_na
 328,2562222,33,15,4,Newcastle,NEW,4,91,Bournemouth,BOU,1,2,2026-04-18T14:00:00Z,True,True,3,3
 330,2562224,33,18,6,Spurs,TOT,6,36,Brighton,BHA,2,2,2026-04-18T16:30:00Z,True,True,3,2
 323,2562217,33,7,8,Chelsea,CHE,14,1,Man Utd,MUN,0,1,2026-04-18T19:00:00Z,True,True,3,3
-321,2562215,33,2,7,Aston Villa,AVL,17,56,Sunderland,SUN,,,2026-04-19T13:00:00Z,False,False,2,4
-325,2562219,33,9,11,Everton,EVE,12,14,Liverpool,LIV,,,2026-04-19T13:00:00Z,False,False,3,3
-329,2562223,33,16,17,Nott'm Forest,NFO,3,90,Burnley,BUR,,,2026-04-19T13:00:00Z,False,False,1,3
-327,2562221,33,13,43,Man City,MCI,1,3,Arsenal,ARS,,,2026-04-19T15:30:00Z,False,False,4,5
+321,2562215,33,2,7,Aston Villa,AVL,17,56,Sunderland,SUN,4,3,2026-04-19T13:00:00Z,True,True,2,4
+325,2562219,33,9,11,Everton,EVE,12,14,Liverpool,LIV,1,2,2026-04-19T13:00:00Z,True,True,3,3
+329,2562223,33,16,17,Nott'm Forest,NFO,3,90,Burnley,BUR,4,1,2026-04-19T13:00:00Z,True,True,1,3
+327,2562221,33,13,43,Man City,MCI,1,3,Arsenal,ARS,2,1,2026-04-19T15:30:00Z,True,True,4,5
 324,2562218,33,8,31,Crystal Palace,CRY,19,21,West Ham,WHU,,,2026-04-20T19:00:00Z,False,False,2,3
 333,2562227,33,6,36,Brighton,BHA,7,8,Chelsea,CHE,,,2026-04-21T19:00:00Z,False,False,3,4
 332,2562225,33,4,91,Bournemouth,BOU,11,2,Leeds,LEE,,,2026-04-22T19:00:00Z,False,False,2,3

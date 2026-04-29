@@ -296,6 +296,17 @@ gw,33,8,698,435997,Noah Okafor,MID,16,False
 gw,33,9,417,466052,Rayan Cherki,MID,13,False
 gw,33,10,64,178301,Ollie Watkins,FWD,16,False
 gw,33,11,430,223094,Erling Haaland,FWD,13,False
+gw,34,1,1,154561,David Raya Martín,GK,10,False
+gw,34,2,317,174874,Joachim Andersen,DEF,11,False
+gw,34,3,507,159506,Ola Aina,DEF,9,False
+gw,34,4,725,448104,Piero Hincapié,DEF,9,False
+gw,34,5,515,222531,Morgan Gibbs-White,MID,13,False
+gw,34,6,386,243016,Alexis Mac Allister,MID,13,False
+gw,34,7,457,61256,Casemiro,MID,12,False
+gw,34,8,328,184349,Ryan Sessegnon,MID,11,False
+gw,34,9,613,215439,Tomáš Souček,MID,10,False
+gw,34,10,526,482973,Igor Jesus,FWD,14,True
+gw,34,11,624,178186,Jarrod Bowen,FWD,10,False
 gw,4,1,670,498016,Robin Roefs,GK,10,False
 gw,4,2,575,491279,Micky van de Ven,DEF,14,False
 gw,4,3,569,221632,Cristian Romero,DEF,12,False
@@ -362,14 +373,14 @@ gw,9,8,350,427637,Brenden Aaronson,MID,11,False
 gw,9,9,84,201658,Marcus Tavernier,MID,11,False
 gw,9,10,266,232413,Eberechi Eze,MID,11,False
 gw,9,11,215,431639,Zian Flemming,FWD,13,False
-season,,1,1,154561,David Raya Martín,GK,131,False
-season,,2,5,226597,Gabriel Magalhães,DEF,177,False
+season,,1,1,154561,David Raya Martín,GK,141,False
+season,,2,5,226597,Gabriel Magalhães,DEF,185,False
 season,,3,260,209036,Marc Guéhi,DEF,158,False
-season,,4,411,472769,Nico O'Reilly,DEF,152,False
-season,,5,449,141746,Bruno Fernandes,MID,199,False
+season,,4,373,97032,Virgil van Dijk,DEF,156,False
+season,,5,449,141746,Bruno Fernandes,MID,204,False
 season,,6,82,437730,Antoine Semenyo,MID,181,False
-season,,7,21,204480,Declan Rice,MID,169,False
-season,,8,329,153682,Harry Wilson,MID,157,False
+season,,7,21,204480,Declan Rice,MID,171,False
+season,,8,515,222531,Morgan Gibbs-White,MID,168,False
 season,,9,430,223094,Erling Haaland,FWD,212,True
-season,,10,136,502500,Igor Thiago,FWD,168,False
-season,,11,249,475168,João Pedro,FWD,166,False
+season,,10,136,502500,Igor Thiago,FWD,169,False
+season,,11,624,178186,Jarrod Bowen,FWD,169,False

@@ -33,6 +33,22 @@
       "difficulty": 3
     },
     {
+      "id": 307,
+      "code": 2562201,
+      "team_h": 13,
+      "team_h_score": null,
+      "team_a": 8,
+      "team_a_score": null,
+      "event": 36,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2026-05-13T19:00:00Z",
+      "event_name": "Gameweek 36",
+      "is_home": true,
+      "difficulty": 3
+    },
+    {
       "id": 363,
       "code": 2562255,
       "team_h": 4,
@@ -43,10 +59,10 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-05-17T14:00:00Z",
+      "kickoff_time": "2026-05-19T18:30:00Z",
       "event_name": "Gameweek 37",
       "is_home": false,
-      "difficulty": 3
+      "difficulty": 4
     },
     {
       "id": 376,
@@ -61,21 +77,6 @@
       "provisional_start_time": false,
       "kickoff_time": "2026-05-24T15:00:00Z",
       "event_name": "Gameweek 38",
-      "is_home": true,
-      "difficulty": 3
-    },
-    {
-      "id": 307,
-      "code": 2562201,
-      "team_h": 13,
-      "team_h_score": null,
-      "team_a": 8,
-      "team_a_score": null,
-      "event": null,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": null,
       "is_home": true,
       "difficulty": 3
     }

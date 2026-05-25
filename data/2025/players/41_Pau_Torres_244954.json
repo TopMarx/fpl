@@ -1,22 +1,5 @@
 {
-  "fixtures": [
-    {
-      "id": 376,
-      "code": 2562270,
-      "team_h": 13,
-      "team_h_score": null,
-      "team_a": 2,
-      "team_a_score": null,
-      "event": 38,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-05-24T15:00:00Z",
-      "event_name": "Gameweek 38",
-      "is_home": false,
-      "difficulty": 5
-    }
-  ],
+  "fixtures": [],
   "history": [
     {
       "element": 41,
@@ -1460,6 +1443,45 @@
       "selected": 39335,
       "transfers_in": 149,
       "transfers_out": 625
+    },
+    {
+      "element": 41,
+      "fixture": 376,
+      "opponent_team": 13,
+      "total_points": 1,
+      "was_home": false,
+      "kickoff_time": "2026-05-24T15:00:00Z",
+      "team_h_score": 1,
+      "team_a_score": 2,
+      "round": 38,
+      "modified": false,
+      "minutes": 17,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "own_goals": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "bonus": 0,
+      "bps": 0,
+      "influence": "1.8",
+      "creativity": "0.3",
+      "threat": "7.0",
+      "ict_index": "0.9",
+      "clearances_blocks_interceptions": 3,
+      "recoveries": 0,
+      "tackles": 0,
+      "defensive_contribution": 3,
+      "starts": 0,
+      "value": 43,
+      "transfers_balance": -126,
+      "selected": 39282,
+      "transfers_in": 397,
+      "transfers_out": 523
     }
   ],
   "history_past": [

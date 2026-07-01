@@ -1,0 +1,2 @@
+fpl_id,opta_id,season_name,start_cost,end_cost,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts
+356,486520,2025/26,50,47,56,1318,0,4,5,23,0,0,0,3,0,0,3,245,199.4,171.0,64.0,43.2,40,51,23,114,15

@@ -30,6 +30,13 @@ are recorded in the manifest by FPL ID for visibility.
 The manifest (fetch-manifest.json) is committed back to the repo between
 GitHub Actions runs to persist state across VM instances.
 
+Season guard: after downloading the bootstrap, the season is derived from
+the first event's deadline_time and compared against --season. On mismatch
+the script exits (code 1) before writing anything. This prevents the old
+season's data being written under a new season label during the off-season
+window when the FPL API has not yet rolled over (the calendar says the new
+season has started, but the API is still serving last season's final state).
+
 Usage:
   python3 fetch.py --season 2025 --output data/2025
   python3 fetch.py --season 2025 --output data/2025 --date 2026-04-10
@@ -277,6 +284,37 @@ def check_event_status(session: requests.Session, yesterday) -> tuple[bool, str]
     return True, "all matches processed"
 
 
+# ─── Season Derivation ────────────────────────────────────────
+
+def derive_season_from_bootstrap(bootstrap: dict) -> int:
+    """
+    Derive the season start year from the bootstrap itself.
+
+    Uses the first event's deadline_time (GW1, always August): a deadline
+    in Jul-Dec belongs to a season starting that year; Jan-Jun belongs to
+    the season that started the previous year. Because this reads the API's
+    own data, it rolls over exactly when the FPL API does — not when the
+    calendar does.
+
+    Raises ValueError if the bootstrap has no parseable first deadline;
+    callers should treat that as fatal rather than guess.
+    """
+    events = bootstrap.get("events") or []
+    if not events:
+        raise ValueError("bootstrap has no events — cannot derive season")
+
+    deadline = events[0].get("deadline_time")
+    if not deadline:
+        raise ValueError("bootstrap events[0] has no deadline_time — cannot derive season")
+
+    try:
+        dt = datetime.fromisoformat(str(deadline).replace("Z", "+00:00"))
+    except ValueError as e:
+        raise ValueError(f"cannot parse events[0].deadline_time {deadline!r}: {e}") from e
+
+    return dt.year if dt.month >= 7 else dt.year - 1
+
+
 # ─── GW State ─────────────────────────────────────────────────
 
 def get_current_gw(bootstrap: dict) -> dict | None:
@@ -465,7 +503,8 @@ def run(args):
     )
 
     output = Path(args.output)
-    output.mkdir(parents=True, exist_ok=True)
+    # NOTE: output dir is only created after the season guard passes
+    # (see step [1/5]) so a mismatched run leaves no empty season dir.
     players_dir = output / "players"
 
     print(f"FPL Fetch — Season {args.season}/{str(args.season + 1)[-2:]}")
@@ -491,6 +530,27 @@ def run(args):
     except Exception as e:
         print(f"  FATAL: Failed to fetch bootstrap after {MAX_RETRIES} attempts: {e}")
         raise SystemExit(1)
+
+    # ── Season guard ──────────────────────────────────────────
+    # The API's own data is the source of truth for which season this is.
+    # Abort before writing anything if it disagrees with --season.
+    try:
+        api_season = derive_season_from_bootstrap(bootstrap)
+    except ValueError as e:
+        print(f"  FATAL: Season guard failed — {e}")
+        raise SystemExit(1)
+
+    if api_season != args.season:
+        print(f"  FATAL: Season mismatch — the API is serving season "
+              f"{api_season}/{str(api_season + 1)[-2:]}, but --season {args.season} "
+              f"was given. Nothing written.")
+        print("  (Expected during the off-season if the caller derives the season "
+              "from the calendar; the FPL API rolls over at new-game launch, not on 1 July.)")
+        raise SystemExit(1)
+
+    print(f"  Season guard OK: API confirms season {api_season}/{str(api_season + 1)[-2:]}")
+
+    output.mkdir(parents=True, exist_ok=True)
 
     if not args.dry_run:
         bootstrap_path = output / f"fpl-bootstrap_{args.season}.json"

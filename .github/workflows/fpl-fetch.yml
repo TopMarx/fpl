@@ -45,15 +45,19 @@ jobs:
       - name: Determine current season
         id: season
         run: |
-          # FPL season starts in July. If Jul-Dec, season = current year.
-          # If Jan-Jun, season = previous year.
-          MONTH=$(date +%m)
-          YEAR=$(date +%Y)
-          if [ "$MONTH" -ge 7 ]; then
-            echo "season=$YEAR" >> $GITHUB_OUTPUT
-          else
-            echo "season=$((YEAR - 1))" >> $GITHUB_OUTPUT
+          # Derived from the FPL API itself (first event's deadline_time),
+          # NOT the calendar. The old game keeps serving last season's data
+          # until the new game launches (typically mid-July), so a calendar
+          # rule mislabels the finished season during that window. During
+          # the between-games maintenance window the API is down and this
+          # step fails the run — that is intentional: nothing to fetch.
+          SEASON=$(python3 scripts/current_season.py)
+          if ! [[ "$SEASON" =~ ^20[0-9]{2}$ ]]; then
+            echo "FATAL: derived season '$SEASON' is not a plausible year"
+            exit 1
           fi
+          echo "Season: $SEASON"
+          echo "season=$SEASON" >> $GITHUB_OUTPUT
 
       # ── Build fetch arguments ────────────────────────────────
 

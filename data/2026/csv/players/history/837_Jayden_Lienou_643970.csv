@@ -1,4 +1,0 @@
-fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
-837,359,36,2026-05-11T19:00:00Z,False,18,Spurs,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,0,0,0,0
-837,367,37,2026-05-17T14:00:00Z,True,6,Brighton,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,99,55,1,54
-837,380,38,2026-05-24T15:00:00Z,False,19,West Ham,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,199,72,39,33

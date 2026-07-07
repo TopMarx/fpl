@@ -69,6 +69,20 @@ usage polite and minimal.
 If match data is still being processed at 1am, retries run automatically at 2am
 and 3am UTC.
 
+### Season rollover
+
+The season is derived from the FPL API itself — the first gameweek's
+`deadline_time` in the bootstrap — never from the calendar. A season guard
+in `fetch.py` aborts before writing anything if the requested season doesn't
+match what the API is actually serving, so each `data/{season}` directory is
+guaranteed to contain only that season's data.
+
+During the off-season the old game keeps serving the finished season's final
+state, and daily runs quietly refresh it under the old season label. While
+FPL takes the API down to launch the new game (typically mid-July), scheduled
+runs fail — this is expected. Once the new game is live, the next run derives
+the new season and creates its `data/{season}` directory automatically.
+
 ---
 
 ## Player files
@@ -97,6 +111,9 @@ data/2025/players/
 ## Season format
 
 Seasons are identified by their start year. The 2025/26 season is `2025`.
+
+The current season is determined from the FPL API's own data, not the
+calendar — see [Season rollover](#season-rollover) above.
 
 Historical data from before this repository was created is available at
 [vaastav/Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League).
@@ -234,6 +251,7 @@ git clone --depth 1 https://github.com/TopMarx/fpl.git
 │   └── fetch-manifest.json
 │
 ├── scripts/
+│   ├── current_season.py
 │   ├── fetch.py
 │   ├── generate_csv.py
 │   └── generate_latest.py

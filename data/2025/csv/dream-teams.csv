@@ -21,7 +21,7 @@ gw,10,8,457,61256,Casemiro,MID,12,False
 gw,10,9,390,441266,Ryan Gravenberch,MID,11,False
 gw,10,10,430,223094,Erling Haaland,FWD,13,False
 gw,10,11,249,475168,João Pedro,FWD,9,False
-gw,11,1,32,98980,Emiliano Martínez Romero,GK,14,False
+gw,11,1,32,98980,Emiliano Martínez,GK,14,False
 gw,11,2,228,482609,Malo Gusto,DEF,15,False
 gw,11,3,295,106611,Michael Keane,DEF,15,True
 gw,11,4,407,465351,Matheus Nunes,DEF,13,False
@@ -164,7 +164,7 @@ gw,22,8,615,450070,Crysencio Summerville,MID,10,False
 gw,22,9,712,488024,Yéremy Pino Santos,MID,9,False
 gw,22,10,708,551226,Mateus Fernandes,MID,9,False
 gw,22,11,730,441264,Brian Brobbey,FWD,9,False
-gw,23,1,32,98980,Emiliano Martínez Romero,GK,10,False
+gw,23,1,32,98980,Emiliano Martínez,GK,10,False
 gw,23,2,407,465351,Matheus Nunes,DEF,11,False
 gw,23,3,507,159506,Ola Aina,DEF,11,False
 gw,23,4,569,221632,Cristian Romero,DEF,11,False
@@ -358,7 +358,7 @@ gw,4,4,694,200834,Nordi Mukiele,DEF,10,False
 gw,4,5,317,174874,Joachim Andersen,DEF,10,False
 gw,4,6,26,481655,Martín Zubimendi Ibáñez,MID,16,True
 gw,4,7,82,437730,Antoine Semenyo,MID,13,False
-gw,4,8,241,486672,Moisés Caicedo Corozo,MID,12,False
+gw,4,8,241,486672,Moisés Caicedo,MID,12,False
 gw,4,9,414,209244,Phil Foden,MID,12,False
 gw,4,10,586,570526,Lucas Bergvall,MID,11,False
 gw,4,11,430,223094,Erling Haaland,FWD,13,False
@@ -406,7 +406,7 @@ gw,8,8,585,202993,Rodrigo Bentancur,MID,12,False
 gw,8,9,283,231747,Jean-Philippe Mateta,FWD,17,False
 gw,8,10,178,50175,Danny Welbeck,FWD,13,False
 gw,8,11,430,223094,Erling Haaland,FWD,13,False
-gw,9,1,32,98980,Emiliano Martínez Romero,GK,8,False
+gw,9,1,32,98980,Emiliano Martínez,GK,8,False
 gw,9,2,575,491279,Micky van de Ven,DEF,23,True
 gw,9,3,36,199796,Matty Cash,DEF,15,False
 gw,9,4,348,214225,Joe Rodon,DEF,13,False

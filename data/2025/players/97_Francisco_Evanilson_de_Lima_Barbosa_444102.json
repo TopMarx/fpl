@@ -1513,6 +1513,35 @@
       "tackles": 0,
       "defensive_contribution": 107,
       "starts": 28
+    },
+    {
+      "season_name": "2025/26",
+      "element_code": 444102,
+      "start_cost": 70,
+      "end_cost": 66,
+      "total_points": 115,
+      "minutes": 2741,
+      "goals_scored": 6,
+      "assists": 7,
+      "clean_sheets": 11,
+      "goals_conceded": 40,
+      "own_goals": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "saves": 0,
+      "bonus": 6,
+      "bps": 412,
+      "influence": "350.6",
+      "creativity": "397.9",
+      "threat": "809.0",
+      "ict_index": "155.5",
+      "clearances_blocks_interceptions": 42,
+      "recoveries": 80,
+      "tackles": 13,
+      "defensive_contribution": 135,
+      "starts": 32
     }
   ]
 }

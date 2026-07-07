@@ -1484,5 +1484,35 @@
       "transfers_out": 71
     }
   ],
-  "history_past": []
+  "history_past": [
+    {
+      "season_name": "2025/26",
+      "element_code": 167887,
+      "start_cost": 50,
+      "end_cost": 48,
+      "total_points": 56,
+      "minutes": 1752,
+      "goals_scored": 1,
+      "assists": 0,
+      "clean_sheets": 2,
+      "goals_conceded": 41,
+      "own_goals": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 6,
+      "red_cards": 1,
+      "saves": 0,
+      "bonus": 1,
+      "bps": 232,
+      "influence": "298.0",
+      "creativity": "185.1",
+      "threat": "111.0",
+      "ict_index": "58.6",
+      "clearances_blocks_interceptions": 74,
+      "recoveries": 64,
+      "tackles": 48,
+      "defensive_contribution": 186,
+      "starts": 18
+    }
+  ]
 }

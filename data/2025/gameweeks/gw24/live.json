@@ -26,7 +26,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -75,7 +76,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -118,7 +120,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -161,7 +164,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -204,7 +208,8 @@
         "defensive_contribution": 13,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -259,7 +264,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -308,7 +314,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -351,7 +358,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -406,7 +414,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -449,7 +458,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -492,7 +502,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -535,7 +546,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -578,7 +590,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -621,7 +634,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -664,7 +678,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -707,7 +722,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -750,7 +766,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -799,7 +816,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 14,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -866,7 +884,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -915,7 +934,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -964,7 +984,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1013,7 +1034,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1056,7 +1078,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1099,7 +1122,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1142,7 +1166,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1185,7 +1210,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 10,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1246,7 +1272,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1289,7 +1316,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1332,7 +1360,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1375,7 +1404,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1418,7 +1448,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1467,7 +1498,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1510,7 +1542,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1553,7 +1586,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1596,7 +1630,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1639,7 +1674,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1682,7 +1718,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1725,7 +1762,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1768,7 +1806,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1811,7 +1850,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1854,7 +1894,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -1897,7 +1938,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1940,7 +1982,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -1983,7 +2026,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -2026,7 +2070,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2069,7 +2114,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2112,7 +2158,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -2155,7 +2202,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2198,7 +2246,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -2241,7 +2290,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -2284,7 +2334,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2327,7 +2378,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -2376,7 +2428,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2419,7 +2472,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2462,7 +2516,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2505,7 +2560,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2548,7 +2604,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2591,7 +2648,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2634,7 +2692,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2677,7 +2736,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2720,7 +2780,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2763,7 +2824,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2806,7 +2868,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2849,7 +2912,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2892,7 +2956,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2935,7 +3000,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -2978,7 +3044,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 10,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3039,7 +3106,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3082,7 +3150,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3125,7 +3194,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3168,7 +3238,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3211,7 +3282,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3266,7 +3338,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3315,7 +3388,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3364,7 +3438,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3407,7 +3482,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3450,7 +3526,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3511,7 +3588,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3554,7 +3632,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3597,7 +3676,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3640,7 +3720,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3683,7 +3764,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3732,7 +3814,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3787,7 +3870,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3830,7 +3914,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3873,7 +3958,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -3916,7 +4002,8 @@
         "defensive_contribution": 6,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -3959,7 +4046,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4008,7 +4096,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4051,7 +4140,8 @@
         "defensive_contribution": 16,
         "starts": 1,
         "total_points": 13,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -4118,7 +4208,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4161,7 +4252,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4204,7 +4296,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4247,7 +4340,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4290,7 +4384,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4333,7 +4428,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4376,7 +4472,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4419,7 +4516,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4462,7 +4560,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4505,7 +4604,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4560,7 +4660,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 10,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -4621,7 +4722,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4664,7 +4766,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4707,7 +4810,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4750,7 +4854,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -4793,7 +4898,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4836,7 +4942,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4879,7 +4986,8 @@
         "defensive_contribution": 12,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4940,7 +5048,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -4989,7 +5098,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5044,7 +5154,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5087,7 +5198,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5130,7 +5242,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5185,7 +5298,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5228,7 +5342,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5271,7 +5386,8 @@
         "defensive_contribution": 5,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5314,7 +5430,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5357,7 +5474,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5400,7 +5518,8 @@
         "defensive_contribution": 1,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5443,7 +5562,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": -2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5492,7 +5612,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5535,7 +5656,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5578,7 +5700,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5621,7 +5744,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5664,7 +5788,8 @@
         "defensive_contribution": 15,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5725,7 +5850,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5774,7 +5900,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5817,7 +5944,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5860,7 +5988,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -5903,7 +6032,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5946,7 +6076,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -5989,7 +6120,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6032,7 +6164,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6075,7 +6208,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6118,7 +6252,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6161,7 +6296,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6204,7 +6340,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6247,7 +6384,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6290,7 +6428,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6339,7 +6478,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6382,7 +6522,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6425,7 +6566,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6468,7 +6610,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6511,7 +6654,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6554,7 +6698,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6603,7 +6748,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6652,7 +6798,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6695,7 +6842,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6738,7 +6886,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6781,7 +6930,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6824,7 +6974,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6867,7 +7018,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -6910,7 +7062,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6953,7 +7106,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -6996,7 +7150,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7039,7 +7194,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7082,7 +7238,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -7125,7 +7282,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -7168,7 +7326,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7211,7 +7370,8 @@
         "defensive_contribution": 5,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -7254,7 +7414,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7297,7 +7458,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7340,7 +7502,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7383,7 +7546,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7426,7 +7590,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7469,7 +7634,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -7524,7 +7690,8 @@
         "defensive_contribution": 14,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -7573,7 +7740,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -7616,7 +7784,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7659,7 +7828,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -7702,7 +7872,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7745,7 +7916,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7788,7 +7960,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7831,7 +8004,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7874,7 +8048,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7917,7 +8092,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -7960,7 +8136,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8003,7 +8180,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -8046,7 +8224,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8089,7 +8268,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8132,7 +8312,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -8175,7 +8356,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8218,7 +8400,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8261,7 +8444,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8304,7 +8488,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8347,7 +8532,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8390,7 +8576,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -8445,7 +8632,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8488,7 +8676,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8531,7 +8720,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8574,7 +8764,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -8629,7 +8820,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8672,7 +8864,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -8727,7 +8920,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8770,7 +8964,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -8819,7 +9014,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8862,7 +9058,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -8905,7 +9102,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": -2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -8960,7 +9158,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9003,7 +9202,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9052,7 +9252,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9095,7 +9296,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9138,7 +9340,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9181,7 +9384,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9224,7 +9428,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9267,7 +9472,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9310,7 +9516,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9353,7 +9560,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9396,7 +9604,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9439,7 +9648,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9482,7 +9692,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9525,7 +9736,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9568,7 +9780,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9611,7 +9824,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9654,7 +9868,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9697,7 +9912,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9740,7 +9956,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9783,7 +10000,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9826,7 +10044,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9869,7 +10088,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -9924,7 +10144,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -9967,7 +10188,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10010,7 +10232,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10053,7 +10276,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10102,7 +10326,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10145,7 +10370,8 @@
         "defensive_contribution": 12,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10200,7 +10426,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10243,7 +10470,8 @@
         "defensive_contribution": 1,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10292,7 +10520,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10341,7 +10570,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10390,7 +10620,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10433,7 +10664,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10476,7 +10708,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10519,7 +10752,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10562,7 +10796,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10605,7 +10840,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10648,7 +10884,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10709,7 +10946,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10752,7 +10990,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10795,7 +11034,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10838,7 +11078,8 @@
         "defensive_contribution": 16,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10893,7 +11134,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -10936,7 +11178,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -10979,7 +11222,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11022,7 +11266,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11065,7 +11310,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11108,7 +11354,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11151,7 +11398,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11194,7 +11442,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 10,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11261,7 +11510,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11310,7 +11560,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11353,7 +11604,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11396,7 +11648,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11439,7 +11692,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11482,7 +11736,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11525,7 +11780,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11568,7 +11824,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11611,7 +11868,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11654,7 +11912,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11697,7 +11956,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11752,7 +12012,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11801,7 +12062,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -11850,7 +12112,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11893,7 +12156,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11936,7 +12200,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -11979,7 +12244,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -12022,7 +12288,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -12071,7 +12338,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12114,7 +12382,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12157,7 +12426,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -12200,7 +12470,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12243,7 +12514,8 @@
         "defensive_contribution": 14,
         "starts": 1,
         "total_points": 9,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -12304,7 +12576,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12347,7 +12620,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12390,7 +12664,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12433,7 +12708,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12476,7 +12752,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12519,7 +12796,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12562,7 +12840,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12605,7 +12884,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12648,7 +12928,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12691,7 +12972,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12734,7 +13016,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12777,7 +13060,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12820,7 +13104,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12863,7 +13148,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12906,7 +13192,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -12949,7 +13236,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -12992,7 +13280,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13035,7 +13324,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13084,7 +13374,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13127,7 +13418,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13170,7 +13462,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13219,7 +13512,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13262,7 +13556,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13305,7 +13600,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13348,7 +13644,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13391,7 +13688,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13434,7 +13732,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13477,7 +13776,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13520,7 +13820,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13563,7 +13864,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13606,7 +13908,8 @@
         "defensive_contribution": 19,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13655,7 +13958,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13704,7 +14008,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13747,7 +14052,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13790,7 +14096,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13833,7 +14140,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13876,7 +14184,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -13919,7 +14228,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -13962,7 +14272,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14017,7 +14328,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14060,7 +14372,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14103,7 +14416,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14158,7 +14472,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14201,7 +14516,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14250,7 +14566,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14305,7 +14622,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14348,7 +14666,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14397,7 +14716,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14440,7 +14760,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14489,7 +14810,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14532,7 +14854,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14575,7 +14898,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14618,7 +14942,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14661,7 +14986,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14710,7 +15036,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14753,7 +15080,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14802,7 +15130,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14845,7 +15174,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14888,7 +15218,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -14931,7 +15262,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -14974,7 +15306,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15017,7 +15350,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15060,7 +15394,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15103,7 +15438,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15146,7 +15482,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15195,7 +15532,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15238,7 +15576,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15281,7 +15620,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15324,7 +15664,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15379,7 +15720,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15428,7 +15770,8 @@
         "defensive_contribution": 16,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15483,7 +15826,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15526,7 +15870,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15569,7 +15914,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15612,7 +15958,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": -1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15667,7 +16014,8 @@
         "defensive_contribution": 14,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15722,7 +16070,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15765,7 +16114,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15808,7 +16158,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15851,7 +16202,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15894,7 +16246,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -15937,7 +16290,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -15980,7 +16334,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16023,7 +16378,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -16066,7 +16422,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16109,7 +16466,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16152,7 +16510,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16195,7 +16554,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16238,7 +16598,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16281,7 +16642,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -16324,7 +16686,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16367,7 +16730,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16410,7 +16774,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16453,7 +16818,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -16496,7 +16862,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16539,7 +16906,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16582,7 +16950,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16625,7 +16994,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16668,7 +17038,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -16717,7 +17088,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16760,7 +17132,8 @@
         "defensive_contribution": 13,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -16809,7 +17182,8 @@
         "defensive_contribution": 13,
         "starts": 1,
         "total_points": 11,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -16870,7 +17244,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16913,7 +17288,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16956,7 +17332,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -16999,7 +17376,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17042,7 +17420,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17085,7 +17464,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17128,7 +17508,8 @@
         "defensive_contribution": 1,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17177,7 +17558,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 12,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -17238,7 +17620,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17281,7 +17664,8 @@
         "defensive_contribution": 12,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17330,7 +17714,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17373,7 +17758,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17422,7 +17808,8 @@
         "defensive_contribution": 13,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17477,7 +17864,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17520,7 +17908,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17563,7 +17952,8 @@
         "defensive_contribution": 16,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17612,7 +18002,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17655,7 +18046,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -17698,7 +18090,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17741,7 +18134,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17784,7 +18178,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17827,7 +18222,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17870,7 +18266,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17913,7 +18310,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17956,7 +18354,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -17999,7 +18398,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18042,7 +18442,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18085,7 +18486,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18128,7 +18530,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18171,7 +18574,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18214,7 +18618,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18257,7 +18662,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18312,7 +18718,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18361,7 +18768,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18404,7 +18812,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18447,7 +18856,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18490,7 +18900,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18539,7 +18950,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18582,7 +18994,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18625,7 +19038,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18668,7 +19082,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18711,7 +19126,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18760,7 +19176,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18815,7 +19232,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18858,7 +19276,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18901,7 +19320,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -18944,7 +19364,8 @@
         "defensive_contribution": 19,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -18999,7 +19420,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19042,7 +19464,8 @@
         "defensive_contribution": 7,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19091,7 +19514,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19134,7 +19558,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19177,7 +19602,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19220,7 +19646,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19263,7 +19690,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19306,7 +19734,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19349,7 +19778,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19398,7 +19828,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19441,7 +19872,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19484,7 +19916,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19527,7 +19960,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19570,7 +20004,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19613,7 +20048,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19656,7 +20092,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19705,7 +20142,8 @@
         "defensive_contribution": 5,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19748,7 +20186,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19791,7 +20230,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19834,7 +20274,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -19877,7 +20318,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19938,7 +20380,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -19987,7 +20430,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20030,7 +20474,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20073,7 +20518,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20116,7 +20562,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20159,7 +20606,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20202,7 +20650,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 10,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20257,7 +20706,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 9,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20318,7 +20768,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20361,7 +20812,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20404,7 +20856,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20447,7 +20900,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20490,7 +20944,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20533,7 +20988,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20576,7 +21032,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 13,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -20649,7 +21106,8 @@
         "defensive_contribution": 12,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20698,7 +21156,8 @@
         "defensive_contribution": 5,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -20741,7 +21200,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20784,7 +21244,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20827,7 +21288,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20870,7 +21332,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20913,7 +21376,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20956,7 +21420,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -20999,7 +21464,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21042,7 +21508,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21085,7 +21552,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21128,7 +21596,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21183,7 +21652,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21244,7 +21714,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21287,7 +21758,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21330,7 +21802,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21385,7 +21858,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21428,7 +21902,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21471,7 +21946,8 @@
         "defensive_contribution": 14,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21532,7 +22008,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21575,7 +22052,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21624,7 +22102,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21667,7 +22146,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21710,7 +22190,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21753,7 +22234,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21796,7 +22278,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21839,7 +22322,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -21882,7 +22366,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21937,7 +22422,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -21980,7 +22466,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22023,7 +22510,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22066,7 +22554,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22109,7 +22598,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22152,7 +22642,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22195,7 +22686,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22238,7 +22730,8 @@
         "defensive_contribution": 6,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22281,7 +22774,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22324,7 +22818,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22367,7 +22862,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22410,7 +22906,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22453,7 +22950,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22496,7 +22994,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22539,7 +23038,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22582,7 +23082,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22625,7 +23126,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22668,7 +23170,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22711,7 +23214,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22754,7 +23258,8 @@
         "defensive_contribution": 13,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22809,7 +23314,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22852,7 +23358,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22895,7 +23402,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": -2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -22944,7 +23452,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -22987,7 +23496,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23030,7 +23540,8 @@
         "defensive_contribution": 5,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23073,7 +23584,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23116,7 +23628,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23159,7 +23672,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23202,7 +23716,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23257,7 +23772,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23300,7 +23816,8 @@
         "defensive_contribution": 17,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23355,7 +23872,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23398,7 +23916,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23441,7 +23960,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23484,7 +24004,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23527,7 +24048,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23570,7 +24092,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23613,7 +24136,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23656,7 +24180,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23699,7 +24224,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -23742,7 +24268,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23785,7 +24312,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23828,7 +24356,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23871,7 +24400,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -23914,7 +24444,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 9,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -23975,7 +24506,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -24030,7 +24562,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24073,7 +24606,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24116,7 +24650,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24159,7 +24694,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24202,7 +24738,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24245,7 +24782,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24288,7 +24826,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -24331,7 +24870,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24374,7 +24914,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 11,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -24435,7 +24976,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24478,7 +25020,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24521,7 +25064,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 14,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -24588,7 +25132,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24631,7 +25176,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24674,7 +25220,8 @@
         "defensive_contribution": 20,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -24729,7 +25276,8 @@
         "defensive_contribution": 1,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -24772,7 +25320,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24815,7 +25364,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24858,7 +25408,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -24901,7 +25452,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -24950,7 +25502,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -25005,7 +25558,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25048,7 +25602,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25091,7 +25646,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25134,7 +25690,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25177,7 +25734,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25220,7 +25778,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25263,7 +25822,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -25306,7 +25866,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25349,7 +25910,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25392,7 +25954,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25435,7 +25998,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25478,7 +26042,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -25527,7 +26092,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25570,7 +26136,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25613,7 +26180,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25656,7 +26224,8 @@
         "defensive_contribution": 1,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -25705,7 +26274,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25748,7 +26318,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25791,7 +26362,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -25840,7 +26412,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25883,7 +26456,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -25932,7 +26506,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -25975,7 +26550,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26018,7 +26594,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26061,7 +26638,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26104,7 +26682,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26147,7 +26726,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -26190,7 +26770,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26233,7 +26814,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26276,7 +26858,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26319,7 +26902,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -26362,7 +26946,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26405,7 +26990,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26448,7 +27034,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -26497,7 +27084,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -26540,7 +27128,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26583,7 +27172,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26626,7 +27216,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -26669,7 +27260,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26712,7 +27304,8 @@
         "defensive_contribution": 9,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -26755,7 +27348,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26798,7 +27392,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26841,7 +27436,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 12,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -26902,7 +27498,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26945,7 +27542,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -26988,7 +27586,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27031,7 +27630,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27086,7 +27686,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27129,7 +27730,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27172,7 +27774,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27221,7 +27824,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27264,7 +27868,8 @@
         "defensive_contribution": 5,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27313,7 +27918,8 @@
         "defensive_contribution": 12,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27368,7 +27974,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27411,7 +28018,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27460,7 +28068,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27521,7 +28130,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27576,7 +28186,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27619,7 +28230,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27662,7 +28274,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27705,7 +28318,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27748,7 +28362,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -27797,7 +28412,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27840,7 +28456,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27883,7 +28500,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27926,7 +28544,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -27969,7 +28588,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28012,7 +28632,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28055,7 +28676,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28098,7 +28720,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28141,7 +28764,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 8,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28196,7 +28820,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28239,7 +28864,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28282,7 +28908,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28325,7 +28952,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28374,7 +29002,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28417,7 +29046,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28460,7 +29090,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28515,7 +29146,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28558,7 +29190,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28601,7 +29234,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28656,7 +29290,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28699,7 +29334,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28742,7 +29378,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28785,7 +29422,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28828,7 +29466,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28871,7 +29510,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -28914,7 +29554,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -28957,7 +29598,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -29000,7 +29642,8 @@
         "defensive_contribution": 14,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -29055,7 +29698,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -29098,7 +29742,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29141,7 +29786,8 @@
         "defensive_contribution": 13,
         "starts": 1,
         "total_points": 3,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -29196,7 +29842,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29239,7 +29886,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29282,7 +29930,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29325,7 +29974,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29368,7 +30018,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29411,7 +30062,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29454,7 +30106,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29497,7 +30150,8 @@
         "defensive_contribution": 3,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -29540,7 +30194,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29583,7 +30238,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29626,7 +30282,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29669,7 +30326,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29712,7 +30370,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29755,7 +30414,8 @@
         "defensive_contribution": 11,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -29798,7 +30458,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 13,
-        "in_dreamteam": true
+        "in_dreamteam": true,
+        "played": true
       },
       "explain": [
         {
@@ -29853,7 +30514,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29896,7 +30558,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -29939,7 +30602,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -29982,7 +30646,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30025,7 +30690,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30080,7 +30746,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30123,7 +30790,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30166,7 +30834,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30209,7 +30878,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30258,7 +30928,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30301,7 +30972,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30350,7 +31022,8 @@
         "defensive_contribution": 17,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30399,7 +31072,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30442,7 +31116,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30485,7 +31160,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30534,7 +31210,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30577,7 +31254,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30620,7 +31298,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30663,7 +31342,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30706,7 +31386,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30761,7 +31442,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30804,7 +31486,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30853,7 +31536,8 @@
         "defensive_contribution": 4,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30902,7 +31586,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -30945,7 +31630,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -30988,7 +31674,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31031,7 +31718,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31074,7 +31762,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31117,7 +31806,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31160,7 +31850,8 @@
         "defensive_contribution": 1,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31203,7 +31894,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31246,7 +31938,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31289,7 +31982,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 9,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31344,7 +32038,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31387,7 +32082,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31430,7 +32126,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31491,7 +32188,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31534,7 +32232,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31577,7 +32276,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31620,7 +32320,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31663,7 +32364,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31706,7 +32408,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31749,7 +32452,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31792,7 +32496,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -31835,7 +32540,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31884,7 +32590,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31927,7 +32634,8 @@
         "defensive_contribution": 14,
         "starts": 1,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -31976,7 +32684,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32019,7 +32728,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32062,7 +32772,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32105,7 +32816,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32154,7 +32866,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 5,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32209,7 +32922,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32252,7 +32966,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32295,7 +33010,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32338,7 +33054,8 @@
         "defensive_contribution": 9,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32399,7 +33116,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32442,7 +33160,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32485,7 +33204,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32528,7 +33248,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32571,7 +33292,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32614,7 +33336,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32657,7 +33380,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32700,7 +33424,8 @@
         "defensive_contribution": 6,
         "starts": 1,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32749,7 +33474,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32792,7 +33518,8 @@
         "defensive_contribution": 8,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32835,7 +33562,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32878,7 +33606,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -32921,7 +33650,8 @@
         "defensive_contribution": 2,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -32964,7 +33694,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 6,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -33013,7 +33744,8 @@
         "defensive_contribution": 4,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -33056,7 +33788,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -33111,7 +33844,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33154,7 +33888,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33197,7 +33932,8 @@
         "defensive_contribution": 0,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -33252,7 +33988,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33295,7 +34032,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33338,7 +34076,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33381,7 +34120,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33424,7 +34164,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33467,7 +34208,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33510,7 +34252,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33553,7 +34296,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33596,7 +34340,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -33639,7 +34384,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33682,7 +34428,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33725,7 +34472,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33768,7 +34516,8 @@
         "defensive_contribution": 7,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -33811,7 +34560,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33854,7 +34604,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33897,7 +34648,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33940,7 +34692,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -33983,7 +34736,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34026,7 +34780,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34069,7 +34824,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34112,7 +34868,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34155,7 +34912,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34198,7 +34956,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34241,7 +35000,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34284,7 +35044,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34327,7 +35088,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34370,7 +35132,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34413,7 +35176,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34456,7 +35220,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34499,7 +35264,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34542,7 +35308,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34585,7 +35352,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34628,7 +35396,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34671,7 +35440,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34714,7 +35484,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34757,7 +35528,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34800,7 +35572,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34843,7 +35616,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34886,7 +35660,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34929,7 +35704,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -34972,7 +35748,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35015,7 +35792,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35058,7 +35836,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35101,7 +35880,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35144,7 +35924,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35187,7 +35968,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35230,7 +36012,8 @@
         "defensive_contribution": 15,
         "starts": 1,
         "total_points": 12,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -35303,7 +36086,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35346,7 +36130,8 @@
         "defensive_contribution": 10,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -35389,7 +36174,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35432,7 +36218,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35475,7 +36262,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35518,7 +36306,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35561,7 +36350,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35604,7 +36394,8 @@
         "defensive_contribution": 5,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -35647,7 +36438,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35690,7 +36482,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35733,7 +36526,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35776,7 +36570,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35819,7 +36614,8 @@
         "defensive_contribution": 14,
         "starts": 1,
         "total_points": 7,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -35874,7 +36670,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35917,7 +36714,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -35960,7 +36758,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36003,7 +36802,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36046,7 +36846,8 @@
         "defensive_contribution": 5,
         "starts": 0,
         "total_points": 1,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -36089,7 +36890,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36132,7 +36934,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36175,7 +36978,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36218,7 +37022,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36261,7 +37066,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36304,7 +37110,8 @@
         "defensive_contribution": 2,
         "starts": 0,
         "total_points": 4,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -36353,7 +37160,8 @@
         "defensive_contribution": 3,
         "starts": 1,
         "total_points": 2,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": true
       },
       "explain": [
         {
@@ -36396,7 +37204,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36439,7 +37248,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {
@@ -36482,7 +37292,8 @@
         "defensive_contribution": 0,
         "starts": 0,
         "total_points": 0,
-        "in_dreamteam": false
+        "in_dreamteam": false,
+        "played": false
       },
       "explain": [
         {

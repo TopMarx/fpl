@@ -17,10 +17,11 @@ On GW closure or forced fetch, also fetches:
 Checks event-status before any player fetch. If any match is still live
 (points: "l") or has no points at all (points: ""), exits cleanly — the
 workflow retries at 2am and 3am UTC. Provisional points (points: "p",
-bonus and final checks pending) are accepted: FPL may not finalise a
-fixture until the morning after the last match of the gameweek, so waiting
-for `finished` would mean no daily data at all. Provisional stats are
-corrected by the re-fetches described below.
+FPL's final Opta data checks still pending) are accepted: FPL may not
+finalise a fixture until the morning after the last match of the gameweek,
+so waiting for `finished` would mean no daily data at all. Bonus is awarded
+live, but any stat (bonus included) can still change with Opta revisions;
+provisional stats are corrected by the re-fetches described below.
 
 Fetches player element-summaries when:
   - Matches were played yesterday (active GW): all players on teams that
@@ -265,7 +266,7 @@ def check_event_status(session: requests.Session, yesterday) -> tuple[bool, str]
     Per-date `points` values seen from the API:
       'l'  live — block
       ''   no points yet — block
-      'p'  provisional (bonus / final checks pending) — proceed
+      'p'  provisional (final Opta data checks pending) — proceed
       'r'  confirmed — proceed
 
     Blocks if any match on or before yesterday is live or has no points.
@@ -301,7 +302,7 @@ def check_event_status(session: requests.Session, yesterday) -> tuple[bool, str]
             print(f"  NOTE: unrecognised event-status points={points!r} on {date_str} — proceeding")
 
     if provisional_dates:
-        return True, f"provisional points on {', '.join(provisional_dates)} (bonus/final checks pending)"
+        return True, f"provisional points on {', '.join(provisional_dates)} (final data checks pending — stats may still change)"
     return True, "all matches processed"
 
 
@@ -349,7 +350,7 @@ def get_current_gw(bootstrap: dict) -> dict | None:
 def fixture_has_result(fix: dict) -> bool:
     """
     True once a fixture has a result — confirmed (`finished`) or provisional
-    (`finished_provisional`: full time reached, bonus/final checks pending).
+    (`finished_provisional`: full time reached, final Opta data checks pending).
     FPL may leave a fixture provisional until the morning after the last
     match of the gameweek, so daily fetches must accept provisional results
     or they would fetch nothing until GW closure.

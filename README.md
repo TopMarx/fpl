@@ -73,9 +73,11 @@ and 3am UTC.
 
 A match is picked up as soon as the FPL API reports a result — including a
 **provisional** one (`finished_provisional` true, `finished` still false),
-where bonus points and final checks are pending. FPL may not confirm a
-fixture until the morning after the last match of the gameweek, so waiting
-for `finished` would mean no daily data at all.
+where FPL's final data checks are still pending. Bonus points are awarded
+live, but any stat — bonus included — can still change when Opta revises
+the match data. FPL may not confirm a fixture until the morning after the
+last match of the gameweek, so waiting for `finished` would mean no daily
+data at all.
 
 Provisional stats are corrected automatically: every team that has played
 in the current gameweek is re-fetched on each subsequent match day, and the
@@ -167,7 +169,8 @@ of the most recent fetch:
 Additional fields: `reason` explains why a `none`/`waiting` run fetched
 nothing; `blocked_reason` explains a `blocked` run; `event_status` records
 the event-status verdict behind a player fetch (e.g. `all matches processed`
-or `provisional points on 2026-08-21 (bonus/final checks pending)`).
+or `provisional points on 2026-08-21 (final data checks pending — stats may
+still change)`).
 
 ---
 

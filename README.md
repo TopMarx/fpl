@@ -69,6 +69,20 @@ usage polite and minimal.
 If match data is still being processed at 1am, retries run automatically at 2am
 and 3am UTC.
 
+### Provisional results
+
+A match is picked up as soon as the FPL API reports a result — including a
+**provisional** one (`finished_provisional` true, `finished` still false),
+where bonus points and final checks are pending. FPL may not confirm a
+fixture until the morning after the last match of the gameweek, so waiting
+for `finished` would mean no daily data at all.
+
+Provisional stats are corrected automatically: every team that has played
+in the current gameweek is re-fetched on each subsequent match day, and the
+gameweek-closure fetch refreshes every player once FPL confirms the data.
+The manifest's `event_status` field says whether the most recent fetch was
+based on provisional points.
+
 ### Season rollover
 
 The season is derived from the FPL API itself — the first gameweek's
@@ -149,6 +163,11 @@ of the most recent fetch:
 | `none` | No matches yesterday, nothing to fetch |
 | `waiting` | GW finished but data not yet checked |
 | `blocked` | Match data still processing, retrying next run |
+
+Additional fields: `reason` explains why a `none`/`waiting` run fetched
+nothing; `blocked_reason` explains a `blocked` run; `event_status` records
+the event-status verdict behind a player fetch (e.g. `all matches processed`
+or `provisional points on 2026-08-21 (bonus/final checks pending)`).
 
 ---
 

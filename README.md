@@ -46,7 +46,7 @@ without needing to know the current season year:
 |---|---|
 | `latest/fpl-bootstrap.json` | Current bootstrap |
 | `latest/fpl-fixtures.json` | Current fixtures |
-| `latest/players-{team_opta_id}.json` | Per-team player histories (one file per team) |
+| `latest/players-{team_opta_id}.json` | Per-team player histories (one file per team; appears after the team's first fetched match of the season — stale previous-season files are removed rather than left in place) |
 | `latest/fetch-manifest.json` | Fetch metadata and completion status |
 | `latest/players-history-past.json` | Previous-season summaries per player (regenerated on GW closure) |
 

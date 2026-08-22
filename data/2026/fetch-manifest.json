@@ -1,7 +1,11 @@
 {
   "season": 2026,
-  "fetch_type": "none",
-  "reason": "no current GW",
-  "last_run": "2026-08-22T03:48:07.856617+00:00",
-  "current_gw": 1
+  "fetch_type": "active_gw",
+  "last_run": "2026-08-22T04:57:28.704218+00:00",
+  "current_gw": 1,
+  "event_status": "provisional points on 2026-08-21 (bonus/final checks pending)",
+  "expected_count": 62,
+  "fetched_count": 62,
+  "failed_ids": [],
+  "completed": true
 }

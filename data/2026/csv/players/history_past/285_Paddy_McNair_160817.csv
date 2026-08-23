@@ -1,0 +1,4 @@
+fpl_id,opta_id,season_name,start_cost,end_cost,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts
+285,160817,2014/15,45,44,34,1028,0,0,2,14,0,0,0,2,0,0,3,205,0.0,0.0,0.0,0.0,0,0,0,0,0
+285,160817,2015/16,50,45,9,315,0,0,0,6,0,0,0,0,0,0,0,56,0.0,0.0,0.0,0.0,0,0,0,0,0
+285,160817,2016/17,45,42,12,353,0,0,1,9,1,0,0,0,0,0,0,58,30.6,51.1,28.0,10.7,0,0,0,0,0

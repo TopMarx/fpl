@@ -1,2 +1,2 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
-237,3,1,2026-08-22T14:00:00Z,True,8,Crystal Palace,2,0,False,90,1,0,1,1,0,0,0,0,0,0,0,1,36,0.0,0.0,0.0,0.0,0,8,4,12,9,60,1434152,0,0,0
+237,3,1,2026-08-22T14:00:00Z,True,8,Crystal Palace,2,0,False,90,1,0,1,1,0,0,0,0,0,0,0,1,36,40.8,39.8,48.0,12.9,0,8,4,12,9,60,1434152,0,0,0

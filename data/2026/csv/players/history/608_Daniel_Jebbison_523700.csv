@@ -1,2 +1,2 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
-608,8,1,2026-08-23T13:00:00Z,False,15,Man City,2,1,False,15,0,0,0,0,2,0,0,0,0,0,0,0,6,0.0,0.0,0.0,0.0,0,1,0,1,1,50,0,0,0,0
+608,8,1,2026-08-23T13:00:00Z,False,15,Man City,2,1,False,15,0,0,0,0,2,0,0,0,0,0,0,0,6,3.4,0.8,17.0,2.1,0,1,0,1,1,50,0,0,0,0

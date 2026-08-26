@@ -1,5 +1,5 @@
 id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is_previous,is_current,is_next
-1,Gameweek 1,2026-08-21T17:30:00Z,48,131,False,False,False,True,False
+1,Gameweek 1,2026-08-21T17:30:00Z,50,131,True,True,False,True,False
 2,Gameweek 2,2026-08-28T17:30:00Z,0,,False,False,False,False,True
 3,Gameweek 3,2026-09-04T17:30:00Z,0,,False,False,False,False,False
 4,Gameweek 4,2026-09-12T12:30:00Z,0,,False,False,False,False,False

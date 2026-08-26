@@ -1,2 +1,2 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
-368,9,1,2026-08-23T15:30:00Z,False,17,Newcastle,2,2,False,90,1,1,0,0,2,0,0,0,0,0,0,1,29,0.0,0.0,0.0,0.0,2,4,1,7,8,70,3733259,0,0,0
+368,9,1,2026-08-23T15:30:00Z,False,17,Newcastle,2,2,False,90,1,1,0,0,2,0,0,0,0,0,0,1,29,50.4,47.1,21.0,11.9,2,4,1,7,8,70,3733259,0,0,0

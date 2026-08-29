@@ -2,7 +2,7 @@
   "team_opta_id": 6,
   "team_name": "Spurs",
   "season": 2026,
-  "generated_at": "2026-08-26T02:53:29.862157+00:00",
+  "generated_at": "2026-08-29T07:51:18.645224+00:00",
   "players": [
     {
       "fpl_id": 495,
@@ -705,6 +705,56 @@
       ]
     },
     {
+      "fpl_id": 401,
+      "opta_id": 438234,
+      "first_name": "Omar",
+      "second_name": "Marmoush",
+      "web_name": "Marmoush",
+      "known_name": "Omar Marmoush",
+      "position": "FWD",
+      "history": [
+        {
+          "element": 401,
+          "fixture": 8,
+          "opponent_team": 3,
+          "total_points": 0,
+          "was_home": true,
+          "kickoff_time": "2026-08-23T13:00:00Z",
+          "team_h_score": 2,
+          "team_a_score": 1,
+          "round": 1,
+          "modified": false,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "own_goals": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "bonus": 0,
+          "bps": 0,
+          "influence": "0.0",
+          "creativity": "0.0",
+          "threat": "0.0",
+          "ict_index": "0.0",
+          "clearances_blocks_interceptions": 0,
+          "recoveries": 0,
+          "tackles": 0,
+          "defensive_contribution": 0,
+          "starts": 0,
+          "value": 70,
+          "transfers_balance": 0,
+          "selected": 80421,
+          "transfers_in": 0,
+          "transfers_out": 0
+        }
+      ]
+    },
+    {
       "fpl_id": 523,
       "opta_id": 499721,
       "first_name": "Mikey",
@@ -759,8 +809,8 @@
       "opta_id": 510281,
       "first_name": "Sávio",
       "second_name": "Moreira de Oliveira",
-      "web_name": "Savinho",
-      "known_name": "Savinho",
+      "web_name": "Sávio",
+      "known_name": "Sávio",
       "position": "MID",
       "history": [
         {

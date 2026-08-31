@@ -1,12 +1,12 @@
 {
   "season": 2026,
   "fetch_type": "active_gw",
-  "last_run": "2026-08-30T06:43:06.739617+00:00",
+  "last_run": "2026-08-31T07:13:51.429686+00:00",
   "current_gw": 2,
-  "expected_count": 319,
-  "fetched_count": 319,
+  "expected_count": 564,
+  "fetched_count": 564,
   "failed_ids": [],
   "completed": true,
   "last_closed_gw": 1,
-  "event_status": "provisional points on 2026-08-28, 2026-08-29 (final data checks pending \u2014 stats may still change)"
+  "event_status": "provisional points on 2026-08-28, 2026-08-29, 2026-08-30 (final data checks pending \u2014 stats may still change)"
 }

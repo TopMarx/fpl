@@ -1,3 +1,3 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 162,4,1,2026-08-22T11:30:00Z,False,11,Hull City,2,0,False,66,1,0,0,0,2,0,0,0,0,0,0,0,17,11.4,4.2,2.0,1.8,3,5,1,9,2,50,93940,0,0,0
-162,18,2,2026-08-30T15:30:00Z,True,12,Ipswich Town,5,2,False,10,0,0,0,0,1,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0,2,3,5,1,50,96490,7456,15149,-7693
+162,18,2,2026-08-30T15:30:00Z,True,12,Ipswich Town,5,2,False,10,0,0,0,0,1,0,0,0,0,0,0,0,2,6.2,0.7,0.0,0.7,0,2,3,5,1,50,96490,7456,15149,-7693

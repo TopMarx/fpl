@@ -1,3 +1,3 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 572,4,1,2026-08-22T11:30:00Z,True,16,Man Utd,2,0,False,90,1,0,0,1,0,0,0,0,0,0,5,3,41,34.6,0.0,0.0,3.5,0,22,0,0,10,45,48305,0,0,0
-572,13,2,2026-08-29T14:00:00Z,False,7,Coventry City,0,1,False,90,1,0,0,1,0,0,0,0,0,0,3,3,32,0.0,0.0,0.0,0.0,0,11,0,0,10,45,301344,101970,12415,89555
+572,13,2,2026-08-29T14:00:00Z,False,7,Coventry City,0,1,False,90,1,0,0,1,0,0,0,0,0,0,3,3,32,26.2,0.0,0.0,2.6,0,11,0,0,10,45,301344,101970,12415,89555

@@ -1,3 +1,3 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 481,8,1,2026-08-23T13:00:00Z,True,3,Bournemouth,2,1,False,62,1,0,0,0,1,0,0,0,0,0,0,0,14,7.2,20.8,0.0,2.8,1,3,2,6,2,65,707651,0,0,0
-481,11,2,2026-08-28T19:00:00Z,False,8,Crystal Palace,1,4,False,81,1,0,0,0,1,0,0,0,1,0,0,0,25,0.0,0.0,0.0,0.0,4,5,5,14,3,64,597491,10236,153305,-143069
+481,11,2,2026-08-28T19:00:00Z,False,8,Crystal Palace,1,4,False,81,1,0,0,0,1,0,0,0,1,0,0,0,25,25.0,20.2,13.0,5.8,4,5,5,14,3,64,597491,10236,153305,-143069

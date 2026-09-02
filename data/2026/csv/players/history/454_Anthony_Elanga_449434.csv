@@ -1,3 +1,3 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 454,9,1,2026-08-23T15:30:00Z,True,14,Liverpool,2,2,False,75,1,1,0,0,1,0,0,0,0,0,0,2,31,37.4,3.5,28.0,6.9,1,1,0,2,9,60,64591,0,0,0
-454,15,2,2026-08-29T16:30:00Z,False,19,Spurs,0,2,False,81,1,1,0,1,0,0,0,0,0,0,0,0,32,0.0,0.0,0.0,0.0,0,1,2,3,8,60,215548,95441,11873,83568
+454,15,2,2026-08-29T16:30:00Z,False,19,Spurs,0,2,False,81,1,1,0,1,0,0,0,0,0,0,0,0,32,36.8,15.3,29.0,8.1,0,1,2,3,8,60,215548,95441,11873,83568

@@ -1,3 +1,3 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 96,2,1,2026-08-22T16:30:00Z,True,19,Spurs,3,0,False,14,0,0,0,0,0,0,0,0,0,0,0,0,6,7.6,26.3,0.0,3.4,0,3,1,4,1,55,52929,0,0,0
-96,17,2,2026-08-30T13:00:00Z,False,13,Leeds,1,1,False,68,1,0,0,1,0,0,0,0,0,0,0,0,20,0.0,0.0,0.0,0.0,2,5,2,9,3,55,52568,2318,7544,-5226
+96,17,2,2026-08-30T13:00:00Z,False,13,Leeds,1,1,False,68,1,0,0,1,0,0,0,0,0,0,0,0,20,16.6,32.4,25.0,7.4,2,5,2,9,3,55,52568,2318,7544,-5226

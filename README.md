@@ -67,7 +67,16 @@ Player element-summary files are only fetched when needed, keeping API
 usage polite and minimal.
 
 If match data is still being processed at 1am, retries run automatically at 2am
-and 3am UTC.
+and 3am UTC. If the FPL API itself is unreachable at 1am or 2am (for example a
+server error or maintenance), that run is skipped and the next retry picks
+up; only the 3am run reports an unreachable API as a failure.
+
+Gameweek closure is also checked during the day, at 09:00, 12:00, 15:00,
+18:00 and 21:00 UTC, because FPL confirms and checks a gameweek's
+data during the day after its last match. Those runs write nothing
+unless a fetch actually happens, so idle checks leave no commits behind. A
+closure spotted by any run is fetched straight away, even if players were
+already fetched earlier that day.
 
 ### Provisional results
 
@@ -84,6 +93,10 @@ in the current gameweek is re-fetched on each subsequent match day, and the
 gameweek-closure fetch refreshes every player once FPL confirms the data.
 The manifest's `event_status` field says whether the most recent fetch was
 based on provisional points.
+
+If FPL marks the gameweek `finished` before `data_checked`, the
+previous day's matches are still fetched that morning; the full closure
+fetch follows once the data checks complete.
 
 ### Season rollover
 
@@ -163,7 +176,7 @@ of the most recent fetch:
 | `gw_closure` | Full fetch of all players on GW closure |
 | `forced` | Manual full fetch via workflow dispatch |
 | `none` | No matches yesterday, nothing to fetch |
-| `waiting` | GW finished but data not yet checked |
+| `waiting` | GW finished but data not yet checked, and no matches yesterday to fetch |
 | `blocked` | Match data still processing, retrying next run |
 
 Additional fields: `reason` explains why a `none`/`waiting` run fetched

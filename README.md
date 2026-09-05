@@ -65,13 +65,14 @@ cron, which had been starting runs hours late. Each day, UTC:
 | 04:30 | Final retry | Last attempt; the only run that reports an unreachable API as a failure |
 | 10:30, 12:30, 14:30, 16:30, 18:30 | Closure checks | Look for a confirmed gameweek and, if found, do the full closure fetch below |
 
-**Gameweek closure** — a full fetch of all players once a gameweek is
-confirmed complete (`finished` and `data_checked` both true in the bootstrap),
-plus live points, dream team, season dream team, set-piece notes, and
-regions. FPL usually confirms and checks a gameweek's data during the day
-after its last match, which is what the daytime checks are for. A closure
-spotted by any run is fetched straight away, even if players were already
-fetched earlier that day.
+**Gameweek closure** — a full fetch of all players once a gameweek is confirmed
+complete (`finished` and `data_checked` both true in the bootstrap), plus live
+points, dream team, season dream team, set-piece notes, and regions. FPL
+usually confirms and checks a gameweek's data during the day after its last
+match, which is what the daytime checks are for. A closure spotted by any run
+is fetched straight away, even if players were already fetched earlier that
+day. A gameweek FPL never marks `data_checked` is still treated as closed once
+the next gameweek has become current, so its closure fetch is not skipped.
 
 Player element-summary files are only fetched when needed, keeping API usage
 polite and minimal. Only the nightly run refreshes bootstrap and fixtures on

@@ -65,6 +65,17 @@ def player_display_name(el: dict) -> str:
     return f"{first} {second}".strip()
 
 
+def gw_dirs(gameweeks_dir: Path) -> list[Path]:
+    """gw{N} directories in gameweek order (gw2 before gw10)."""
+    numbered = []
+    for d in gameweeks_dir.glob("gw*"):
+        try:
+            numbered.append((int(d.name[2:]), d))
+        except ValueError:
+            continue
+    return [d for _, d in sorted(numbered)]
+
+
 # ─── Generators ───────────────────────────────────────────────
 
 def generate_players(bootstrap: dict, team_lookup: dict, csv_dir: Path) -> None:
@@ -76,6 +87,8 @@ def generate_players(bootstrap: dict, team_lookup: dict, csv_dir: Path) -> None:
         "assists", "clean_sheets", "goals_conceded", "own_goals", "penalties_saved",
         "penalties_missed", "yellow_cards", "red_cards", "saves", "bonus", 
         "bps", "influence", "creativity", "threat", "ict_index",
+        "starts", "clearances_blocks_interceptions", "recoveries", "tackles",
+        "defensive_contribution",
         "now_cost", "selected_by_percent",
     ]
 
@@ -117,6 +130,11 @@ def generate_players(bootstrap: dict, team_lookup: dict, csv_dir: Path) -> None:
             "creativity": el.get("creativity", 0),
             "threat": el.get("threat", 0),
             "ict_index": el.get("ict_index", 0),
+            "starts": el.get("starts", 0),
+            "clearances_blocks_interceptions": el.get("clearances_blocks_interceptions", 0),
+            "recoveries": el.get("recoveries", 0),
+            "tackles": el.get("tackles", 0),
+            "defensive_contribution": el.get("defensive_contribution", 0),
             "now_cost": el.get("now_cost"),
             "selected_by_percent": el.get("selected_by_percent"),
         })
@@ -235,7 +253,7 @@ def generate_live(gameweeks_dir: Path, csv_dir: Path) -> None:
     ]
 
     rows = []
-    for gw_dir in sorted(gameweeks_dir.glob("gw*")):
+    for gw_dir in gw_dirs(gameweeks_dir):
         live_path = gw_dir / "live.json"
         live = load_json(live_path)
         if not isinstance(live, dict):
@@ -311,7 +329,7 @@ def generate_dream_teams(
             })
         return result
 
-    for gw_dir in sorted(gameweeks_dir.glob("gw*")):
+    for gw_dir in gw_dirs(gameweeks_dir):
         dt_path = gw_dir / "dream-team.json"
         data = load_json(dt_path)
         if not isinstance(data, dict):
@@ -421,7 +439,7 @@ def generate_player_csvs(players_dir: Path, team_lookup: dict, csv_dir: Path) ->
         "yellow_cards", "red_cards", "saves", "bonus", "bps",
         "influence", "creativity", "threat", "ict_index",
         "clearances_blocks_interceptions", "recoveries", "tackles",
-        "defensive_contribution","starts",
+        "defensive_contribution", "starts",
     ]
 
     history_count = 0

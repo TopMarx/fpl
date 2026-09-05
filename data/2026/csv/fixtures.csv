@@ -19,7 +19,7 @@ fpl_id,opta_id,gameweek,team_h_fpl_id,team_h_opta_id,team_h_name,team_h_short_na
 19,2645213,2,20,56,Sunderland,SUN,10,54,Fulham,FUL,1,0,2026-08-30T13:00:00Z,True,True,2,3
 18,2645212,2,16,1,Man Utd,MUN,12,40,Ipswich Town,IPS,5,2,2026-08-30T15:30:00Z,True,True,2,4
 20,2645206,2,2,7,Aston Villa,AVL,1,3,Arsenal,ARS,0,1,2026-08-31T19:00:00Z,True,True,4,4
-21,2645221,3,12,40,Ipswich Town,IPS,14,14,Liverpool,LIV,,,2026-09-04T19:00:00Z,False,False,4,2
+21,2645221,3,12,40,Ipswich Town,IPS,14,14,Liverpool,LIV,0,2,2026-09-04T19:00:00Z,False,True,4,2
 27,2645223,3,17,4,Newcastle,NEW,3,91,Bournemouth,BOU,,,2026-09-05T11:30:00Z,False,False,3,3
 22,2645216,3,4,94,Brentford,BRE,20,56,Sunderland,SUN,,,2026-09-05T14:00:00Z,False,False,2,3
 23,2645217,3,5,36,Brighton,BHA,13,2,Leeds,LEE,,,2026-09-05T14:00:00Z,False,False,2,3

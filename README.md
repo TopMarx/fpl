@@ -54,29 +54,33 @@ without needing to know the current season year:
 
 ## Update schedule
 
-The repository updates automatically via GitHub Actions:
+Runs are started on time by an external scheduler — the
+[ism-fantasy-scheduler](https://github.com/TopMarx/ism-fantasy-scheduler)
+Cloudflare Worker — through `workflow_dispatch` with a `slot` input. GitHub's
+own cron queue has been starting runs hours late, so the workflow's
+`schedule` block is kept only as a fallback during the changeover; it maps
+its cron hours onto the same slots. Each day, UTC:
 
-- **Daily at 1am UTC** — fetches bootstrap, fixtures, and player data for any
-  teams that played the previous day
-- **On gameweek closure** — full fetch of all players once a gameweek is
-  confirmed complete (`finished` and `data_checked` both true in the bootstrap),
-  plus live points, dream team, season dream team, set-piece notes, and regions
+| Time | Slot | What happens |
+|---|---|---|
+| 02:30 | `nightly` | Refresh bootstrap and fixtures; if there were matches yesterday, fetch player data for every team that has played in the current gameweek |
+| 03:30 | `retry` | Same as nightly, but only acts if nightly fetched nothing (blocked, or API unreachable); writes nothing when idle |
+| 04:30 | `final` | Last retry; the only slot that reports an unreachable API as a failure |
+| 10:30, 12:30, 14:30, 16:30, 18:30 | `daytime` | Gameweek-closure checks; write nothing unless a fetch happens |
 
-On most days with no matches, only bootstrap and fixtures are refreshed.
-Player element-summary files are only fetched when needed, keeping API
-usage polite and minimal.
+**Gameweek closure** — a full fetch of all players once a gameweek is
+confirmed complete (`finished` and `data_checked` both true in the bootstrap),
+plus live points, dream team, season dream team, set-piece notes, and
+regions. FPL usually confirms and checks a gameweek's data during the day
+after its last match, which is what the daytime checks are for. A closure
+spotted by any slot is fetched straight away, even if players were already
+fetched earlier that day.
 
-If match data is still being processed at 1am, retries run automatically at 2am
-and 3am UTC. If the FPL API itself is unreachable at 1am or 2am (for example a
-server error or maintenance), that run is skipped and the next retry picks
-up; only the 3am run reports an unreachable API as a failure.
-
-Gameweek closure is also checked during the day, at 09:00, 12:00, 15:00,
-18:00 and 21:00 UTC, because FPL confirms and checks a gameweek's
-data during the day after its last match. Those runs write nothing
-unless a fetch actually happens, so idle checks leave no commits behind. A
-closure spotted by any run is fetched straight away, even if players were
-already fetched earlier that day.
+Player element-summary files are only fetched when needed, keeping API usage
+polite and minimal. Only the nightly slot refreshes bootstrap and fixtures on
+an idle day, so idle retries and daytime checks leave no commits behind. A
+run started by hand from the Actions tab (slot `manual`) behaves like nightly
+but fails, rather than defers, if the API is unreachable.
 
 ### Provisional results
 
@@ -108,9 +112,10 @@ guaranteed to contain only that season's data.
 
 During the off-season the old game keeps serving the finished season's final
 state, and daily runs quietly refresh it under the old season label. While
-FPL takes the API down to launch the new game (typically mid-July), scheduled
-runs fail — this is expected. Once the new game is live, the next run derives
-the new season and creates its `data/{season}` directory automatically.
+FPL takes the API down to launch the new game (typically mid-July), the
+`final` slot's run fails each day and the other slots defer quietly — this is
+expected. Once the new game is live, the next run derives the new season and
+creates its `data/{season}` directory automatically.
 
 ---
 

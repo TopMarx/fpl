@@ -242,7 +242,7 @@ jobs:
 
       - name: Dispatch career-stats ingest
         if: |
-          success() &&
+          !cancelled() &&
           steps.publish.outputs.pushed == 'true' &&
           github.event.inputs.dry_run != 'true' &&
           (steps.slot.outputs.slot != 'daytime' ||

@@ -1,4 +1,4 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 598,6,1,2026-08-22T14:00:00Z,False,18,Nott'm Forest,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,1842,0,0,0
 598,17,2,2026-08-30T13:00:00Z,True,4,Brentford,1,1,False,56,0,0,0,0,1,0,0,0,0,0,0,0,9,16.0,1.1,6.0,2.3,5,4,1,6,1,45,2511,354,279,75
-598,23,3,2026-09-05T14:00:00Z,False,5,Brighton,1,1,False,90,1,0,0,0,1,0,0,0,0,0,0,0,12,0.0,0.0,0.0,0.0,10,0,0,10,4,45,2951,729,528,201
+598,23,3,2026-09-05T14:00:00Z,False,5,Brighton,1,1,False,90,1,0,0,0,1,0,0,0,0,0,0,0,12,27.6,21.1,6.0,5.5,10,0,0,10,4,45,2951,729,528,201

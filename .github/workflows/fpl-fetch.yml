@@ -206,6 +206,7 @@ jobs:
       # ── Commit and push ──────────────────────────────────────
 
       - name: Commit and push
+        id: publish
         if: |
           steps.season.outputs.skip != 'true' &&
           github.event.inputs.dry_run != 'true' &&
@@ -215,8 +216,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ latest/
-          git diff --cached --quiet && echo "Nothing to commit" || \
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
             git commit -m "FPL data: ${{ steps.fetch.outputs.gw_label }}${{ steps.fetch.outputs.fetch_type }} $(date -u +%Y-%m-%d)"
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
           git push
 
       # ── Optional heartbeat ───────────────────────────────────
@@ -232,4 +238,25 @@ jobs:
             curl -fsS --retry 3 "$PING_URL"
           else
             echo "No HEARTBEAT_PING_URL secret configured — skipping"
+          fi
+
+      - name: Dispatch career-stats ingest
+        if: |
+          success() &&
+          steps.publish.outputs.pushed == 'true' &&
+          github.event.inputs.dry_run != 'true' &&
+          (steps.slot.outputs.slot != 'daytime' ||
+           steps.fetch.outputs.fetch_type == 'gw_closure' ||
+           steps.fetch.outputs.fetch_type == 'forced')
+        env:
+          DISPATCH_TOKEN: ${{ secrets.CAREER_STATS_DISPATCH_TOKEN }}
+        run: |
+          if [ -n "$DISPATCH_TOKEN" ]; then
+            curl -fsS --retry 3 -X POST \
+              -H "Authorization: Bearer $DISPATCH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              https://api.github.com/repos/TopMarxFPL/fpl-career-stats/actions/workflows/fpl-pipeline.yml/dispatches \
+              -d '{"ref":"main","inputs":{"task":"ingest","source":"chained"}}'
+          else
+            echo "No CAREER_STATS_DISPATCH_TOKEN secret configured — skipping"
           fi

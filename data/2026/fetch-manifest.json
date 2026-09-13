@@ -1,12 +1,12 @@
 {
   "season": 2026,
-  "fetch_type": "none",
-  "last_run": "2026-09-12T02:31:15.238433+00:00",
-  "current_gw": 3,
-  "expected_count": 654,
-  "fetched_count": 654,
+  "fetch_type": "active_gw",
+  "last_run": "2026-09-13T02:42:41.190502+00:00",
+  "current_gw": 4,
+  "expected_count": 457,
+  "fetched_count": 457,
   "failed_ids": [],
   "completed": true,
   "last_closed_gw": 3,
-  "reason": "GW3 closure already recorded"
+  "event_status": "provisional points on 2026-09-12 (final data checks pending \u2014 stats may still change)"
 }

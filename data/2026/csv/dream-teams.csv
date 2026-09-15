@@ -32,14 +32,25 @@ gw,3,8,15,184029,Martin Ødegaard,MID,10,False
 gw,3,9,68,201658,Marcus Tavernier,MID,10,False
 gw,3,10,379,219168,Alexander Isak,FWD,13,False
 gw,3,11,411,223094,Erling Haaland,FWD,9,False
-season,,1,572,473284,Konstantinos Tzolakis,GK,26,False
-season,,2,279,146426,Semi Ajayi,DEF,25,False
-season,,3,586,606930,Nobel Mendy,DEF,24,False
-season,,4,277,108416,John Egan,DEF,23,False
-season,,5,367,243298,Cody Gakpo,MID,28,True
-season,,6,426,141746,Bruno Fernandes,MID,27,False
-season,,7,399,466052,Rayan Cherki,MID,25,False
-season,,8,15,184029,Martin Ødegaard,MID,24,False
-season,,9,69,503139,Alex Scott,MID,24,False
-season,,10,411,223094,Erling Haaland,FWD,24,False
-season,,11,379,219168,Alexander Isak,FWD,23,False
+gw,4,1,1,154561,David Raya Martín,GK,14,False
+gw,4,2,330,226182,Jayden Bogle,DEF,15,False
+gw,4,3,305,455084,Leif Davis,DEF,14,False
+gw,4,4,116,83299,Lewis Dunk,DEF,12,False
+gw,4,5,115,465730,Maxim De Cuyper,DEF,11,False
+gw,4,6,233,224967,Vitalii Mykolenko,DEF,11,False
+gw,4,7,124,60307,Pascal Groß,MID,17,True
+gw,4,8,94,513418,Kevin Schade,MID,15,False
+gw,4,9,286,540324,Mohamed Belloumi,MID,13,False
+gw,4,10,316,543968,Emersonn,FWD,12,False
+gw,4,11,165,475168,João Pedro,FWD,12,False
+season,,1,1,154561,David Raya Martín,GK,29,False
+season,,2,330,226182,Jayden Bogle,DEF,37,True
+season,,3,391,477424,Joško Gvardiol,DEF,33,False
+season,,4,115,465730,Maxim De Cuyper,DEF,32,False
+season,,5,124,60307,Pascal Groß,MID,33,False
+season,,6,12,223340,Bukayo Saka,MID,30,False
+season,,7,94,513418,Kevin Schade,MID,30,False
+season,,8,68,201658,Marcus Tavernier,MID,29,False
+season,,9,426,141746,Bruno Fernandes,MID,29,False
+season,,10,411,223094,Erling Haaland,FWD,33,False
+season,,11,165,475168,João Pedro,FWD,33,False

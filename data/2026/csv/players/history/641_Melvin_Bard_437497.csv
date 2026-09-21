@@ -1,3 +1,4 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 641,23,3,2026-09-05T14:00:00Z,False,5,Brighton,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,242,177,28,149
 641,40,4,2026-09-14T19:00:00Z,True,17,Newcastle,4,1,False,18,0,0,0,0,1,0,0,0,0,0,0,0,1,4.4,10.3,0.0,1.5,1,2,1,2,1,45,576,322,105,217
+641,44,5,2026-09-20T13:00:00Z,True,8,Crystal Palace,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,877,363,143,220

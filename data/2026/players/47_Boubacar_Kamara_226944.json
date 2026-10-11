@@ -1,22 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 52,
-      "code": 2645246,
-      "team_h": 2,
-      "team_h_score": null,
-      "team_a": 4,
-      "team_a_score": null,
-      "event": 6,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-10-10T14:00:00Z",
-      "event_name": "Gameweek 6",
-      "is_home": true,
-      "difficulty": 3
-    },
-    {
       "id": 68,
       "code": 2645262,
       "team_h": 17,
@@ -75,7 +59,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-11-07T15:00:00Z",
+      "kickoff_time": "2026-11-08T16:30:00Z",
       "event_name": "Gameweek 10",
       "is_home": false,
       "difficulty": 4
@@ -94,7 +78,7 @@
       "kickoff_time": "2026-11-21T15:00:00Z",
       "event_name": "Gameweek 11",
       "is_home": true,
-      "difficulty": 2
+      "difficulty": 3
     },
     {
       "id": 116,
@@ -107,7 +91,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-11-28T15:00:00Z",
+      "kickoff_time": "2026-11-28T17:30:00Z",
       "event_name": "Gameweek 12",
       "is_home": false,
       "difficulty": 2
@@ -142,7 +126,7 @@
       "kickoff_time": "2026-12-05T15:00:00Z",
       "event_name": "Gameweek 14",
       "is_home": true,
-      "difficulty": 3
+      "difficulty": 2
     },
     {
       "id": 143,
@@ -190,7 +174,7 @@
       "kickoff_time": "2026-12-26T12:30:00Z",
       "event_name": "Gameweek 17",
       "is_home": true,
-      "difficulty": 2
+      "difficulty": 3
     },
     {
       "id": 171,
@@ -414,7 +398,7 @@
       "kickoff_time": "2027-04-10T14:00:00Z",
       "event_name": "Gameweek 31",
       "is_home": true,
-      "difficulty": 2
+      "difficulty": 3
     },
     {
       "id": 311,
@@ -494,7 +478,7 @@
       "kickoff_time": "2027-05-15T14:00:00Z",
       "event_name": "Gameweek 36",
       "is_home": true,
-      "difficulty": 2
+      "difficulty": 3
     },
     {
       "id": 367,
@@ -526,7 +510,7 @@
       "kickoff_time": "2027-05-30T15:00:00Z",
       "event_name": "Gameweek 38",
       "is_home": true,
-      "difficulty": 3
+      "difficulty": 2
     }
   ],
   "history": [
@@ -724,6 +708,45 @@
       "selected": 32641,
       "transfers_in": 1988,
       "transfers_out": 4734
+    },
+    {
+      "element": 47,
+      "fixture": 52,
+      "opponent_team": 4,
+      "total_points": 4,
+      "was_home": true,
+      "kickoff_time": "2026-10-10T14:00:00Z",
+      "team_h_score": 2,
+      "team_a_score": 2,
+      "round": 6,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 2,
+      "own_goals": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "bonus": 0,
+      "bps": 21,
+      "influence": "0.0",
+      "creativity": "0.0",
+      "threat": "0.0",
+      "ict_index": "0.0",
+      "clearances_blocks_interceptions": 7,
+      "recoveries": 5,
+      "tackles": 1,
+      "defensive_contribution": 13,
+      "starts": 1,
+      "value": 50,
+      "transfers_balance": -662,
+      "selected": 32876,
+      "transfers_in": 2588,
+      "transfers_out": 3250
     }
   ],
   "history_past": [

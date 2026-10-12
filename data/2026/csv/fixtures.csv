@@ -55,9 +55,9 @@ fpl_id,opta_id,gameweek,team_h_fpl_id,team_h_opta_id,team_h_name,team_h_short_na
 57,2645251,6,12,40,Ipswich Town,IPS,10,54,Fulham,FUL,2,1,2026-10-10T14:00:00Z,False,True,2,2
 60,2645254,6,20,56,Sunderland,SUN,5,36,Brighton,BHA,0,2,2026-10-10T14:00:00Z,False,True,3,3
 59,2645253,6,16,1,Man Utd,MUN,19,6,Spurs,TOT,1,1,2026-10-10T16:30:00Z,False,True,2,4
-55,2645249,6,8,31,Crystal Palace,CRY,18,17,Nott'm Forest,NFO,,,2026-10-11T13:00:00Z,False,False,3,3
-56,2645250,6,11,88,Hull City,HUL,9,11,Everton,EVE,,,2026-10-11T13:00:00Z,False,False,3,2
-58,2645252,6,14,14,Liverpool,LIV,15,43,Man City,MCI,,,2026-10-11T15:30:00Z,False,False,4,4
+55,2645249,6,8,31,Crystal Palace,CRY,18,17,Nott'm Forest,NFO,3,1,2026-10-11T13:00:00Z,False,True,3,3
+56,2645250,6,11,88,Hull City,HUL,9,11,Everton,EVE,2,2,2026-10-11T13:00:00Z,False,True,3,2
+58,2645252,6,14,14,Liverpool,LIV,15,43,Man City,MCI,0,3,2026-10-11T15:30:00Z,False,True,4,4
 54,2645248,6,7,9,Coventry City,COV,17,4,Newcastle,NEW,,,2026-10-12T19:00:00Z,False,False,3,2
 64,2645258,7,9,11,Everton,EVE,6,8,Chelsea,CHE,,,2026-10-17T11:30:00Z,False,False,4,3
 62,2645256,7,4,94,Brentford,BRE,14,14,Liverpool,LIV,,,2026-10-17T14:00:00Z,False,False,4,3

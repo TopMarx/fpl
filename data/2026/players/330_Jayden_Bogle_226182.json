@@ -91,7 +91,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-12-02T20:00:00Z",
+      "kickoff_time": "2026-12-02T19:30:00Z",
       "event_name": "Gameweek 13",
       "is_home": false,
       "difficulty": 5
@@ -761,7 +761,7 @@
       "threat": "0.0",
       "ict_index": "0.0",
       "clearances_blocks_interceptions": 1,
-      "recoveries": 7,
+      "recoveries": 8,
       "tackles": 2,
       "defensive_contribution": 3,
       "starts": 1,

@@ -65,14 +65,25 @@ gw,6,8,399,466052,Rayan Cherki,MID,10,False
 gw,6,9,45,122806,John McGinn,MID,10,False
 gw,6,10,165,475168,João Pedro,FWD,12,False
 gw,6,11,599,627221,Sidiki Cherif,FWD,12,False
-season,,1,572,473284,Konstantinos Tzolakis,GK,36,False
-season,,2,115,465730,Maxim De Cuyper,DEF,53,True
-season,,3,229,17761,James Tarkowski,DEF,46,False
-season,,4,330,226182,Jayden Bogle,DEF,43,False
-season,,5,391,477424,Joško Gvardiol,DEF,41,False
-season,,6,504,610799,Luka Vušković,DEF,40,False
-season,,7,124,60307,Pascal Groß,MID,53,False
+gw,7,1,1,154561,David Raya Martín,GK,9,False
+gw,7,2,504,610799,Luka Vušković,DEF,11,False
+gw,7,3,148,551210,Jorrel Hato,DEF,11,False
+gw,7,4,114,204120,Olivier Boscagli,DEF,10,False
+gw,7,5,156,247632,Pedro Neto,MID,15,True
+gw,7,6,129,509416,Yasin Ayari,MID,13,False
+gw,7,7,261,153133,Alex Iwobi,MID,11,False
+gw,7,8,53,614071,Johan Manzambi,MID,11,False
+gw,7,9,411,223094,Erling Haaland,FWD,13,False
+gw,7,10,79,444102,Evanilson,FWD,12,False
+gw,7,11,138,647850,Charalampos Kostoulas,FWD,12,False
+season,,1,1,154561,David Raya Martín,GK,42,False
+season,,2,115,465730,Maxim De Cuyper,DEF,59,True
+season,,3,504,610799,Luka Vušković,DEF,51,False
+season,,4,229,17761,James Tarkowski,DEF,46,False
+season,,5,330,226182,Jayden Bogle,DEF,45,False
+season,,6,8,466075,Riccardo Calafiori,DEF,44,False
+season,,7,124,60307,Pascal Groß,MID,58,False
 season,,8,399,466052,Rayan Cherki,MID,44,False
-season,,9,94,513418,Kevin Schade,MID,40,False
-season,,10,165,475168,João Pedro,FWD,45,False
-season,,11,411,223094,Erling Haaland,FWD,45,False
+season,,9,68,201658,Marcus Tavernier,MID,42,False
+season,,10,411,223094,Erling Haaland,FWD,58,False
+season,,11,165,475168,João Pedro,FWD,47,False

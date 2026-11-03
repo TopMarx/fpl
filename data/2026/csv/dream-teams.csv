@@ -87,14 +87,25 @@ gw,8,8,514,511499,Mathys Tel,MID,11,False
 gw,8,9,68,201658,Marcus Tavernier,MID,10,False
 gw,8,10,591,474120,Julio Enciso,MID,10,False
 gw,8,11,166,517052,Nicolas Jackson,FWD,13,False
-season,,1,1,154561,David Raya Martín,GK,49,False
-season,,2,115,465730,Maxim De Cuyper,DEF,60,False
-season,,3,4,226597,Gabriel Magalhães,DEF,52,False
-season,,4,504,610799,Luka Vušković,DEF,52,False
-season,,5,330,226182,Jayden Bogle,DEF,50,False
-season,,6,229,17761,James Tarkowski,DEF,48,False
-season,,7,124,60307,Pascal Groß,MID,58,False
-season,,8,68,201658,Marcus Tavernier,MID,52,False
-season,,9,411,223094,Erling Haaland,FWD,66,True
-season,,10,379,219168,Alexander Isak,FWD,51,False
-season,,11,165,475168,João Pedro,FWD,47,False
+gw,9,1,109,489639,Bart Verbruggen,GK,11,False
+gw,9,2,112,469142,Jan Paul van Hecke,DEF,15,True
+gw,9,3,145,444463,Wesley Fofana,DEF,11,False
+gw,9,4,85,444765,Sepp van den Berg,DEF,10,False
+gw,9,5,31,199798,Ezri Konsa Ngoyo,DEF,10,False
+gw,9,6,151,577016,Josh Acheampong,DEF,9,False
+gw,9,7,129,509416,Yasin Ayari,MID,10,False
+gw,9,8,40,244850,Morgan Rogers,MID,9,False
+gw,9,9,295,169432,Oli McBurnie,FWD,12,False
+gw,9,10,79,444102,Evanilson,FWD,9,False
+gw,9,11,166,517052,Nicolas Jackson,FWD,9,False
+season,,1,1,154561,David Raya Martín,GK,54,False
+season,,2,115,465730,Maxim De Cuyper,DEF,69,True
+season,,3,4,226597,Gabriel Magalhães,DEF,58,False
+season,,4,504,610799,Luka Vušković,DEF,58,False
+season,,5,229,17761,James Tarkowski,DEF,54,False
+season,,6,112,469142,Jan Paul van Hecke,DEF,53,False
+season,,7,124,60307,Pascal Groß,MID,60,False
+season,,8,68,201658,Marcus Tavernier,MID,55,False
+season,,9,411,223094,Erling Haaland,FWD,68,False
+season,,10,379,219168,Alexander Isak,FWD,53,False
+season,,11,79,444102,Evanilson,FWD,52,False

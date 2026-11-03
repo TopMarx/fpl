@@ -1,12 +1,12 @@
 {
   "season": 2026,
-  "fetch_type": "active_gw",
-  "last_run": "2026-11-03T02:47:53.615065+00:00",
+  "fetch_type": "gw_closure",
+  "last_run": "2026-11-03T16:48:18.103255+00:00",
   "current_gw": 9,
   "expected_count": 670,
   "fetched_count": 670,
   "failed_ids": [],
   "completed": true,
-  "last_closed_gw": 8,
-  "event_status": "provisional points on 2026-10-31, 2026-11-01, 2026-11-02 (final data checks pending \u2014 stats may still change)"
+  "last_closed_gw": 9,
+  "event_status": "all matches processed"
 }

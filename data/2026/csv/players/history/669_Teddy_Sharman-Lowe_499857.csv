@@ -1,3 +1,4 @@
 fpl_id,fixture_fpl_id,gameweek,kickoff_time,was_home,opponent_team_fpl_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,starts,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 669,73,8,2026-10-24T16:30:00Z,True,19,Spurs,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,0,0,0,0
 669,84,9,2026-10-31T12:30:00Z,True,16,Man Utd,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,10780,4180,383,3797
+669,100,10,2026-11-08T14:00:00Z,False,20,Sunderland,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,40,10513,3319,639,2680

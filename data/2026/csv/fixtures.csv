@@ -94,11 +94,11 @@ fpl_id,opta_id,gameweek,team_h_fpl_id,team_h_opta_id,team_h_name,team_h_short_na
 91,2645285,10,1,3,Arsenal,ARS,11,88,Hull City,HUL,1,0,2026-11-07T15:00:00Z,False,True,2,5
 95,2645289,10,10,54,Fulham,FUL,17,4,Newcastle,NEW,1,1,2026-11-07T15:00:00Z,False,True,3,3
 99,2645293,10,18,17,Nott'm Forest,NFO,15,43,Man City,MCI,3,1,2026-11-07T17:30:00Z,False,True,4,2
-92,2645286,10,5,36,Brighton,BHA,4,94,Brentford,BRE,,,2026-11-08T14:00:00Z,False,False,3,4
-93,2645287,10,8,31,Crystal Palace,CRY,14,14,Liverpool,LIV,,,2026-11-08T14:00:00Z,False,False,4,2
-96,2645290,10,12,40,Ipswich Town,IPS,3,91,Bournemouth,BOU,,,2026-11-08T14:00:00Z,False,False,3,2
-100,2645294,10,20,56,Sunderland,SUN,6,8,Chelsea,CHE,,,2026-11-08T14:00:00Z,False,False,4,3
-98,2645292,10,16,1,Man Utd,MUN,2,7,Aston Villa,AVL,,,2026-11-08T16:30:00Z,False,False,3,3
+92,2645286,10,5,36,Brighton,BHA,4,94,Brentford,BRE,2,0,2026-11-08T14:00:00Z,False,True,3,4
+93,2645287,10,8,31,Crystal Palace,CRY,14,14,Liverpool,LIV,1,3,2026-11-08T14:00:00Z,False,True,4,2
+96,2645290,10,12,40,Ipswich Town,IPS,3,91,Bournemouth,BOU,1,2,2026-11-08T14:00:00Z,False,True,3,2
+100,2645294,10,20,56,Sunderland,SUN,6,8,Chelsea,CHE,1,0,2026-11-08T14:00:00Z,False,True,4,3
+98,2645292,10,16,1,Man Utd,MUN,2,7,Aston Villa,AVL,4,4,2026-11-08T16:30:00Z,False,True,3,3
 108,2645302,11,15,43,Man City,MCI,10,54,Fulham,FUL,,,2026-11-21T12:30:00Z,False,False,2,5
 101,2645296,11,2,7,Aston Villa,AVL,20,56,Sunderland,SUN,,,2026-11-21T15:00:00Z,False,False,2,3
 102,2645295,11,3,91,Bournemouth,BOU,18,17,Nott'm Forest,NFO,,,2026-11-21T15:00:00Z,False,False,3,4

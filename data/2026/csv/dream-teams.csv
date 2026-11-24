@@ -109,14 +109,25 @@ gw,10,8,15,184029,Martin Ødegaard,MID,11,False
 gw,10,9,249,586309,Thierno Barry,FWD,16,False
 gw,10,10,167,463034,Liam Delap,FWD,13,False
 gw,10,11,166,517052,Nicolas Jackson,FWD,11,False
-season,,1,1,154561,David Raya Martín,GK,60,False
-season,,2,115,465730,Maxim De Cuyper,DEF,75,True
+gw,11,1,529,498016,Robin Roefs,GK,11,False
+gw,11,2,60,463981,James Hill,DEF,14,False
+gw,11,3,499,441164,Pedro Porro Sauceda,DEF,11,False
+gw,11,4,611,214590,Aaron Wan-Bissaka,DEF,8,False
+gw,11,5,86,249231,Keane Lewis-Potter,MID,16,True
+gw,11,6,336,435997,Noah Okafor,MID,15,False
+gw,11,7,366,494595,Florian Wirtz,MID,14,False
+gw,11,8,369,611922,Rio Ngumoha,MID,13,False
+gw,11,9,601,611917,Luca Williams-Barnett,MID,13,False
+gw,11,10,295,169432,Oli McBurnie,FWD,13,False
+gw,11,11,222,247412,Jørgen Strand Larsen,FWD,10,False
+season,,1,1,154561,David Raya Martín,GK,61,False
+season,,2,115,465730,Maxim De Cuyper,DEF,76,True
 season,,3,504,610799,Luka Vušković,DEF,70,False
-season,,4,4,226597,Gabriel Magalhães,DEF,66,False
-season,,5,330,226182,Jayden Bogle,DEF,58,False
-season,,6,31,199798,Ezri Konsa Ngoyo,DEF,57,False
-season,,7,124,60307,Pascal Groß,MID,70,False
-season,,8,68,201658,Marcus Tavernier,MID,58,False
-season,,9,411,223094,Erling Haaland,FWD,70,False
-season,,10,79,444102,Evanilson,FWD,61,False
-season,,11,379,219168,Alexander Isak,FWD,61,False
+season,,4,4,226597,Gabriel Magalhães,DEF,67,False
+season,,5,112,469142,Jan Paul van Hecke,DEF,63,False
+season,,6,330,226182,Jayden Bogle,DEF,62,False
+season,,7,124,60307,Pascal Groß,MID,74,False
+season,,8,68,201658,Marcus Tavernier,MID,66,False
+season,,9,411,223094,Erling Haaland,FWD,72,False
+season,,10,79,444102,Evanilson,FWD,67,False
+season,,11,379,219168,Alexander Isak,FWD,66,False

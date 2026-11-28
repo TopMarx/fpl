@@ -109,7 +109,7 @@ fpl_id,opta_id,gameweek,team_h_fpl_id,team_h_opta_id,team_h_name,team_h_short_na
 106,2645300,11,11,88,Hull City,HUL,5,36,Brighton,BHA,2,0,2026-11-22T14:00:00Z,True,True,4,2
 107,2645301,11,14,14,Liverpool,LIV,16,1,Man Utd,MUN,4,0,2026-11-22T16:30:00Z,True,True,3,4
 103,2645297,11,4,94,Brentford,BRE,9,11,Everton,EVE,4,0,2026-11-23T20:00:00Z,True,True,3,4
-119,2645313,12,18,17,Nott'm Forest,NFO,6,8,Chelsea,CHE,,,2026-11-27T20:00:00Z,False,False,4,2
+119,2645313,12,18,17,Nott'm Forest,NFO,6,8,Chelsea,CHE,3,2,2026-11-27T20:00:00Z,False,True,4,2
 117,2645311,12,13,2,Leeds,LEE,7,9,Coventry City,COV,,,2026-11-28T15:00:00Z,False,False,2,3
 118,2645312,12,16,1,Man Utd,MUN,4,94,Brentford,BRE,,,2026-11-28T15:00:00Z,False,False,3,3
 116,2645310,12,12,40,Ipswich Town,IPS,2,7,Aston Villa,AVL,,,2026-11-28T17:30:00Z,False,False,3,2
